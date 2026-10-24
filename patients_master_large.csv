@@ -1,0 +1,5001 @@
+patient_id,gender,age,insurance_type
+P00001,Male,68,Private Insurance
+P00002,Female,88,Medicare
+P00003,Female,65,Medicaid
+P00004,Female,36,Private Insurance
+P00005,Male,23,Medicare
+P00006,Male,44,Private Insurance
+P00007,Male,70,Private Insurance
+P00008,Female,65,Medicaid
+P00009,Female,24,Medicare
+P00010,Female,76,Medicare
+P00011,Male,86,Private Insurance
+P00012,Female,28,Private Insurance
+P00013,Female,32,Medicare
+P00014,Male,81,Medicare
+P00015,Male,20,Medicare
+P00016,Male,86,Medicaid
+P00017,Male,40,Medicare
+P00018,Female,70,Private Insurance
+P00019,Male,54,Medicare
+P00020,Male,26,Private Insurance
+P00021,Female,32,Medicaid
+P00022,Male,20,Medicaid
+P00023,Male,87,Medicare
+P00024,Male,34,Private Insurance
+P00025,Male,43,Medicare
+P00026,Female,38,Medicare
+P00027,Male,89,Medicaid
+P00028,Female,38,Private Insurance
+P00029,Female,28,Medicare
+P00030,Male,55,Medicare
+P00031,Female,89,Private Insurance
+P00032,Male,52,Private Insurance
+P00033,Male,31,Medicare
+P00034,Female,31,Private Insurance
+P00035,Female,27,Medicaid
+P00036,Female,29,Private Insurance
+P00037,Male,55,Private Insurance
+P00038,Male,51,Medicare
+P00039,Female,58,Private Insurance
+P00040,Male,27,Medicaid
+P00041,Male,34,Medicaid
+P00042,Female,34,Private Insurance
+P00043,Male,84,Private Insurance
+P00044,Female,79,Medicare
+P00045,Male,18,Medicare
+P00046,Female,29,Medicare
+P00047,Male,21,Self-Pay
+P00048,Female,59,Private Insurance
+P00049,Female,30,Private Insurance
+P00050,Male,21,Medicare
+P00051,Female,86,Private Insurance
+P00052,Female,36,Private Insurance
+P00053,Female,19,Private Insurance
+P00054,Female,29,Medicare
+P00055,Female,91,Medicare
+P00056,Female,23,Medicaid
+P00057,Male,25,Private Insurance
+P00058,Male,68,Medicare
+P00059,Male,28,Private Insurance
+P00060,Male,80,Medicare
+P00061,Male,74,Private Insurance
+P00062,Male,29,Medicaid
+P00063,Female,90,Medicare
+P00064,Male,19,Medicaid
+P00065,Male,25,Medicare
+P00066,Female,28,Medicare
+P00067,Male,70,Private Insurance
+P00068,Female,27,Medicare
+P00069,Male,25,Medicare
+P00070,Female,53,Medicare
+P00071,Female,31,Medicare
+P00072,Male,71,Medicare
+P00073,Male,38,Medicare
+P00074,Female,67,Medicaid
+P00075,Female,56,Medicare
+P00076,Female,37,Private Insurance
+P00077,Female,24,Medicare
+P00078,Male,26,Medicare
+P00079,Male,18,Medicare
+P00080,Male,43,Private Insurance
+P00081,Female,55,Private Insurance
+P00082,Female,55,Private Insurance
+P00083,Male,78,Medicare
+P00084,Male,61,Private Insurance
+P00085,Male,61,Medicare
+P00086,Male,91,Medicare
+P00087,Female,79,Private Insurance
+P00088,Female,23,Medicare
+P00089,Female,34,Self-Pay
+P00090,Male,68,Medicare
+P00091,Male,55,Self-Pay
+P00092,Female,41,Private Insurance
+P00093,Female,68,Medicaid
+P00094,Female,27,Medicare
+P00095,Female,89,Medicare
+P00096,Female,38,Private Insurance
+P00097,Female,87,Medicare
+P00098,Male,74,Private Insurance
+P00099,Male,56,Self-Pay
+P00100,Male,50,Medicare
+P00101,Male,76,Medicaid
+P00102,Female,35,Private Insurance
+P00103,Male,73,Medicare
+P00104,Female,74,Medicare
+P00105,Female,65,Medicaid
+P00106,Male,59,Medicare
+P00107,Male,44,Private Insurance
+P00108,Female,91,Medicare
+P00109,Male,69,Self-Pay
+P00110,Male,59,Medicare
+P00111,Male,49,Private Insurance
+P00112,Male,43,Medicaid
+P00113,Female,42,Medicare
+P00114,Female,40,Medicare
+P00115,Female,74,Private Insurance
+P00116,Female,69,Private Insurance
+P00117,Female,48,Medicare
+P00118,Male,81,Medicaid
+P00119,Female,88,Medicare
+P00120,Female,50,Medicare
+P00121,Female,19,Private Insurance
+P00122,Female,35,Private Insurance
+P00123,Male,64,Medicare
+P00124,Male,50,Self-Pay
+P00125,Male,52,Medicare
+P00126,Male,68,Private Insurance
+P00127,Female,35,Medicaid
+P00128,Female,89,Medicaid
+P00129,Male,47,Medicaid
+P00130,Female,61,Medicare
+P00131,Male,70,Private Insurance
+P00132,Male,27,Private Insurance
+P00133,Male,69,Medicare
+P00134,Male,66,Private Insurance
+P00135,Female,28,Medicare
+P00136,Male,83,Private Insurance
+P00137,Female,75,Medicare
+P00138,Female,53,Medicare
+P00139,Male,50,Medicare
+P00140,Female,64,Medicaid
+P00141,Female,30,Private Insurance
+P00142,Male,57,Medicare
+P00143,Female,85,Medicare
+P00144,Male,59,Medicare
+P00145,Male,36,Private Insurance
+P00146,Male,36,Private Insurance
+P00147,Female,75,Medicare
+P00148,Female,40,Medicare
+P00149,Male,71,Private Insurance
+P00150,Male,82,Medicare
+P00151,Female,29,Medicare
+P00152,Male,41,Medicare
+P00153,Male,51,Medicaid
+P00154,Male,70,Medicaid
+P00155,Female,25,Private Insurance
+P00156,Male,35,Medicare
+P00157,Female,74,Private Insurance
+P00158,Female,22,Medicare
+P00159,Male,43,Private Insurance
+P00160,Female,47,Medicaid
+P00161,Male,71,Medicaid
+P00162,Female,30,Medicare
+P00163,Female,46,Medicare
+P00164,Female,20,Medicaid
+P00165,Male,75,Private Insurance
+P00166,Female,19,Medicare
+P00167,Male,45,Self-Pay
+P00168,Male,19,Self-Pay
+P00169,Male,24,Medicaid
+P00170,Female,43,Self-Pay
+P00171,Female,33,Medicare
+P00172,Male,40,Medicare
+P00173,Female,57,Medicare
+P00174,Male,77,Medicaid
+P00175,Female,90,Medicare
+P00176,Male,49,Self-Pay
+P00177,Female,32,Medicare
+P00178,Male,30,Medicare
+P00179,Female,22,Private Insurance
+P00180,Male,91,Medicare
+P00181,Male,69,Medicare
+P00182,Male,58,Private Insurance
+P00183,Female,70,Medicare
+P00184,Female,67,Medicare
+P00185,Male,32,Medicare
+P00186,Female,24,Medicaid
+P00187,Female,57,Self-Pay
+P00188,Female,45,Private Insurance
+P00189,Female,49,Medicare
+P00190,Male,32,Medicare
+P00191,Male,87,Medicaid
+P00192,Female,82,Self-Pay
+P00193,Female,21,Medicare
+P00194,Female,28,Medicare
+P00195,Male,43,Private Insurance
+P00196,Male,78,Self-Pay
+P00197,Female,54,Medicare
+P00198,Female,40,Medicare
+P00199,Female,57,Medicare
+P00200,Female,40,Medicare
+P00201,Female,33,Private Insurance
+P00202,Male,78,Private Insurance
+P00203,Male,85,Private Insurance
+P00204,Female,48,Medicare
+P00205,Female,70,Medicare
+P00206,Male,42,Medicare
+P00207,Male,61,Medicare
+P00208,Female,29,Private Insurance
+P00209,Male,26,Medicare
+P00210,Male,29,Medicare
+P00211,Female,86,Medicare
+P00212,Female,71,Medicare
+P00213,Female,71,Medicaid
+P00214,Male,45,Private Insurance
+P00215,Female,73,Medicare
+P00216,Male,86,Private Insurance
+P00217,Male,75,Medicare
+P00218,Female,59,Medicare
+P00219,Female,55,Private Insurance
+P00220,Female,85,Medicare
+P00221,Female,70,Private Insurance
+P00222,Female,50,Medicare
+P00223,Male,88,Medicaid
+P00224,Male,73,Private Insurance
+P00225,Male,89,Private Insurance
+P00226,Male,68,Private Insurance
+P00227,Female,91,Medicaid
+P00228,Male,60,Medicare
+P00229,Female,32,Private Insurance
+P00230,Female,55,Private Insurance
+P00231,Female,32,Medicare
+P00232,Female,22,Medicaid
+P00233,Female,71,Private Insurance
+P00234,Female,68,Medicaid
+P00235,Male,27,Medicare
+P00236,Female,29,Private Insurance
+P00237,Male,21,Medicare
+P00238,Male,35,Medicare
+P00239,Female,53,Private Insurance
+P00240,Male,42,Medicare
+P00241,Female,53,Private Insurance
+P00242,Female,84,Medicare
+P00243,Female,26,Medicare
+P00244,Male,78,Medicare
+P00245,Male,70,Self-Pay
+P00246,Female,35,Medicare
+P00247,Male,60,Medicare
+P00248,Female,52,Medicare
+P00249,Female,80,Medicare
+P00250,Female,21,Medicaid
+P00251,Male,58,Medicare
+P00252,Male,62,Medicaid
+P00253,Female,67,Medicaid
+P00254,Male,45,Private Insurance
+P00255,Male,59,Private Insurance
+P00256,Female,86,Medicaid
+P00257,Female,18,Medicare
+P00258,Female,56,Private Insurance
+P00259,Female,34,Private Insurance
+P00260,Male,52,Medicare
+P00261,Female,63,Private Insurance
+P00262,Female,59,Medicare
+P00263,Male,56,Medicare
+P00264,Female,66,Medicare
+P00265,Female,79,Private Insurance
+P00266,Female,55,Medicaid
+P00267,Female,40,Private Insurance
+P00268,Female,39,Medicare
+P00269,Male,21,Medicaid
+P00270,Male,66,Medicare
+P00271,Female,76,Private Insurance
+P00272,Female,90,Medicare
+P00273,Female,85,Medicare
+P00274,Female,88,Medicare
+P00275,Female,19,Private Insurance
+P00276,Female,66,Medicaid
+P00277,Female,48,Medicare
+P00278,Female,57,Medicaid
+P00279,Female,65,Self-Pay
+P00280,Female,68,Private Insurance
+P00281,Female,60,Private Insurance
+P00282,Male,72,Medicare
+P00283,Male,66,Medicare
+P00284,Male,74,Private Insurance
+P00285,Female,32,Medicaid
+P00286,Male,44,Medicare
+P00287,Male,85,Medicaid
+P00288,Female,81,Private Insurance
+P00289,Male,47,Medicare
+P00290,Female,53,Medicaid
+P00291,Male,84,Private Insurance
+P00292,Male,66,Medicaid
+P00293,Female,72,Medicare
+P00294,Male,73,Self-Pay
+P00295,Male,85,Self-Pay
+P00296,Female,61,Private Insurance
+P00297,Female,48,Private Insurance
+P00298,Male,75,Medicare
+P00299,Female,70,Private Insurance
+P00300,Male,40,Medicare
+P00301,Male,45,Private Insurance
+P00302,Female,33,Private Insurance
+P00303,Female,54,Private Insurance
+P00304,Female,38,Private Insurance
+P00305,Female,34,Private Insurance
+P00306,Female,54,Medicare
+P00307,Female,36,Private Insurance
+P00308,Male,47,Medicare
+P00309,Female,62,Medicaid
+P00310,Male,35,Medicare
+P00311,Male,79,Medicare
+P00312,Male,53,Private Insurance
+P00313,Male,69,Self-Pay
+P00314,Female,36,Medicare
+P00315,Female,61,Medicaid
+P00316,Female,24,Medicaid
+P00317,Male,61,Self-Pay
+P00318,Male,85,Medicaid
+P00319,Male,51,Private Insurance
+P00320,Male,83,Private Insurance
+P00321,Female,86,Medicare
+P00322,Female,72,Private Insurance
+P00323,Female,27,Private Insurance
+P00324,Male,59,Private Insurance
+P00325,Female,58,Medicare
+P00326,Female,86,Medicare
+P00327,Female,27,Private Insurance
+P00328,Female,27,Medicare
+P00329,Male,77,Private Insurance
+P00330,Male,68,Medicare
+P00331,Male,38,Medicare
+P00332,Female,25,Medicare
+P00333,Male,82,Medicaid
+P00334,Male,47,Medicare
+P00335,Male,66,Medicaid
+P00336,Male,26,Medicaid
+P00337,Female,34,Private Insurance
+P00338,Female,86,Private Insurance
+P00339,Male,75,Medicaid
+P00340,Male,74,Medicaid
+P00341,Female,79,Medicare
+P00342,Male,69,Medicaid
+P00343,Male,78,Medicaid
+P00344,Male,57,Medicaid
+P00345,Male,55,Medicare
+P00346,Female,60,Private Insurance
+P00347,Female,80,Medicare
+P00348,Male,36,Private Insurance
+P00349,Male,67,Medicare
+P00350,Female,50,Self-Pay
+P00351,Female,30,Medicaid
+P00352,Female,79,Medicare
+P00353,Female,60,Medicare
+P00354,Male,66,Medicare
+P00355,Male,53,Medicare
+P00356,Female,27,Medicare
+P00357,Male,23,Private Insurance
+P00358,Female,74,Medicare
+P00359,Female,18,Private Insurance
+P00360,Female,88,Medicare
+P00361,Male,75,Private Insurance
+P00362,Female,38,Medicaid
+P00363,Male,73,Medicare
+P00364,Female,37,Medicare
+P00365,Female,71,Medicare
+P00366,Male,42,Medicare
+P00367,Female,45,Medicaid
+P00368,Female,22,Private Insurance
+P00369,Male,38,Private Insurance
+P00370,Male,35,Medicaid
+P00371,Male,64,Self-Pay
+P00372,Male,87,Private Insurance
+P00373,Male,74,Private Insurance
+P00374,Female,36,Medicaid
+P00375,Male,82,Medicare
+P00376,Male,20,Medicare
+P00377,Female,59,Private Insurance
+P00378,Male,38,Medicaid
+P00379,Female,57,Medicare
+P00380,Male,84,Medicaid
+P00381,Male,42,Medicare
+P00382,Female,72,Private Insurance
+P00383,Female,69,Medicare
+P00384,Female,61,Private Insurance
+P00385,Female,73,Private Insurance
+P00386,Female,72,Medicare
+P00387,Male,87,Medicaid
+P00388,Male,90,Private Insurance
+P00389,Female,83,Medicare
+P00390,Female,36,Medicare
+P00391,Female,24,Medicare
+P00392,Male,80,Medicaid
+P00393,Male,59,Medicaid
+P00394,Female,59,Medicare
+P00395,Male,76,Medicaid
+P00396,Female,37,Medicare
+P00397,Female,90,Private Insurance
+P00398,Male,34,Medicare
+P00399,Female,44,Private Insurance
+P00400,Female,64,Medicaid
+P00401,Male,19,Private Insurance
+P00402,Female,80,Medicaid
+P00403,Female,79,Private Insurance
+P00404,Female,36,Medicare
+P00405,Male,34,Private Insurance
+P00406,Female,86,Medicaid
+P00407,Male,56,Medicaid
+P00408,Male,88,Medicaid
+P00409,Female,56,Private Insurance
+P00410,Male,53,Private Insurance
+P00411,Male,57,Medicare
+P00412,Female,62,Private Insurance
+P00413,Female,21,Private Insurance
+P00414,Female,42,Private Insurance
+P00415,Female,86,Private Insurance
+P00416,Male,47,Private Insurance
+P00417,Male,85,Medicare
+P00418,Male,46,Private Insurance
+P00419,Female,90,Medicaid
+P00420,Female,85,Self-Pay
+P00421,Female,68,Medicare
+P00422,Female,41,Medicare
+P00423,Male,31,Medicare
+P00424,Female,86,Private Insurance
+P00425,Male,35,Private Insurance
+P00426,Female,59,Medicare
+P00427,Male,74,Private Insurance
+P00428,Female,29,Private Insurance
+P00429,Male,34,Private Insurance
+P00430,Male,47,Medicare
+P00431,Male,40,Private Insurance
+P00432,Female,18,Medicare
+P00433,Female,49,Private Insurance
+P00434,Male,26,Medicare
+P00435,Male,32,Medicaid
+P00436,Female,45,Private Insurance
+P00437,Male,41,Medicare
+P00438,Female,77,Medicare
+P00439,Female,52,Private Insurance
+P00440,Male,44,Medicaid
+P00441,Male,37,Medicaid
+P00442,Female,82,Medicare
+P00443,Male,66,Medicare
+P00444,Male,18,Medicare
+P00445,Female,27,Medicare
+P00446,Female,64,Private Insurance
+P00447,Female,76,Medicare
+P00448,Female,79,Medicaid
+P00449,Male,35,Medicare
+P00450,Male,63,Medicare
+P00451,Female,49,Private Insurance
+P00452,Female,44,Private Insurance
+P00453,Male,35,Medicare
+P00454,Female,56,Medicare
+P00455,Male,66,Medicare
+P00456,Female,61,Private Insurance
+P00457,Male,89,Medicaid
+P00458,Male,71,Medicare
+P00459,Male,51,Medicaid
+P00460,Male,88,Private Insurance
+P00461,Male,53,Private Insurance
+P00462,Female,35,Private Insurance
+P00463,Female,55,Medicare
+P00464,Female,76,Medicare
+P00465,Female,26,Medicare
+P00466,Male,90,Private Insurance
+P00467,Male,89,Self-Pay
+P00468,Female,68,Medicaid
+P00469,Male,52,Medicare
+P00470,Female,22,Medicaid
+P00471,Male,31,Medicare
+P00472,Female,47,Medicare
+P00473,Male,21,Medicaid
+P00474,Female,56,Medicare
+P00475,Female,81,Medicare
+P00476,Female,42,Private Insurance
+P00477,Male,45,Medicare
+P00478,Female,83,Medicare
+P00479,Female,39,Medicare
+P00480,Female,48,Private Insurance
+P00481,Female,40,Private Insurance
+P00482,Female,65,Medicare
+P00483,Male,37,Medicaid
+P00484,Female,55,Medicare
+P00485,Female,72,Private Insurance
+P00486,Female,85,Private Insurance
+P00487,Male,18,Private Insurance
+P00488,Male,24,Medicaid
+P00489,Female,74,Self-Pay
+P00490,Female,29,Self-Pay
+P00491,Male,22,Private Insurance
+P00492,Female,67,Medicaid
+P00493,Male,59,Medicare
+P00494,Male,29,Medicare
+P00495,Male,35,Medicare
+P00496,Male,83,Medicare
+P00497,Female,91,Private Insurance
+P00498,Male,34,Private Insurance
+P00499,Female,85,Private Insurance
+P00500,Female,88,Medicare
+P00501,Female,79,Medicare
+P00502,Female,58,Private Insurance
+P00503,Male,51,Medicare
+P00504,Female,87,Medicare
+P00505,Female,62,Self-Pay
+P00506,Male,75,Private Insurance
+P00507,Female,68,Medicare
+P00508,Female,51,Private Insurance
+P00509,Female,61,Private Insurance
+P00510,Female,32,Private Insurance
+P00511,Female,87,Private Insurance
+P00512,Male,67,Medicare
+P00513,Female,49,Private Insurance
+P00514,Female,84,Medicare
+P00515,Male,20,Medicare
+P00516,Male,91,Private Insurance
+P00517,Male,68,Medicaid
+P00518,Female,84,Private Insurance
+P00519,Female,65,Private Insurance
+P00520,Male,34,Private Insurance
+P00521,Female,24,Private Insurance
+P00522,Male,30,Medicaid
+P00523,Female,83,Medicare
+P00524,Female,21,Medicare
+P00525,Female,27,Medicare
+P00526,Male,34,Medicare
+P00527,Male,69,Medicaid
+P00528,Male,23,Private Insurance
+P00529,Male,86,Self-Pay
+P00530,Female,91,Private Insurance
+P00531,Female,26,Private Insurance
+P00532,Female,38,Medicare
+P00533,Female,41,Medicare
+P00534,Female,21,Medicare
+P00535,Female,41,Private Insurance
+P00536,Female,76,Medicare
+P00537,Female,20,Private Insurance
+P00538,Male,85,Medicaid
+P00539,Male,57,Medicare
+P00540,Male,65,Medicare
+P00541,Female,71,Medicaid
+P00542,Female,52,Medicare
+P00543,Male,73,Private Insurance
+P00544,Female,57,Private Insurance
+P00545,Female,85,Medicaid
+P00546,Male,63,Private Insurance
+P00547,Male,30,Medicaid
+P00548,Female,44,Self-Pay
+P00549,Female,23,Medicare
+P00550,Female,34,Private Insurance
+P00551,Female,53,Medicare
+P00552,Female,19,Medicare
+P00553,Female,69,Medicare
+P00554,Female,83,Medicaid
+P00555,Female,69,Medicare
+P00556,Male,60,Medicare
+P00557,Male,39,Self-Pay
+P00558,Male,72,Private Insurance
+P00559,Female,84,Private Insurance
+P00560,Female,77,Private Insurance
+P00561,Female,75,Self-Pay
+P00562,Male,29,Medicaid
+P00563,Male,86,Medicare
+P00564,Male,56,Private Insurance
+P00565,Male,30,Private Insurance
+P00566,Female,58,Medicare
+P00567,Male,74,Medicaid
+P00568,Male,70,Medicare
+P00569,Female,29,Private Insurance
+P00570,Male,30,Medicare
+P00571,Female,91,Self-Pay
+P00572,Female,74,Private Insurance
+P00573,Male,57,Private Insurance
+P00574,Female,62,Medicaid
+P00575,Female,52,Medicare
+P00576,Female,20,Medicare
+P00577,Male,22,Medicare
+P00578,Female,28,Private Insurance
+P00579,Female,88,Medicaid
+P00580,Male,73,Medicare
+P00581,Male,27,Medicare
+P00582,Female,51,Private Insurance
+P00583,Female,84,Medicare
+P00584,Male,89,Private Insurance
+P00585,Female,48,Medicare
+P00586,Male,88,Medicaid
+P00587,Male,83,Medicare
+P00588,Male,87,Medicaid
+P00589,Male,58,Private Insurance
+P00590,Male,80,Medicare
+P00591,Male,49,Medicaid
+P00592,Female,37,Private Insurance
+P00593,Male,74,Private Insurance
+P00594,Male,67,Private Insurance
+P00595,Female,42,Medicare
+P00596,Male,29,Medicaid
+P00597,Female,88,Self-Pay
+P00598,Male,56,Private Insurance
+P00599,Male,34,Self-Pay
+P00600,Male,62,Medicare
+P00601,Male,28,Private Insurance
+P00602,Male,87,Private Insurance
+P00603,Male,40,Medicare
+P00604,Male,87,Private Insurance
+P00605,Male,55,Private Insurance
+P00606,Male,19,Medicare
+P00607,Male,89,Medicare
+P00608,Male,54,Private Insurance
+P00609,Female,66,Medicare
+P00610,Female,69,Medicare
+P00611,Male,50,Medicaid
+P00612,Female,39,Medicare
+P00613,Female,22,Private Insurance
+P00614,Male,35,Medicaid
+P00615,Female,55,Medicaid
+P00616,Female,54,Private Insurance
+P00617,Male,81,Medicaid
+P00618,Male,27,Medicare
+P00619,Female,59,Private Insurance
+P00620,Female,65,Medicaid
+P00621,Male,61,Medicare
+P00622,Male,33,Private Insurance
+P00623,Male,71,Private Insurance
+P00624,Male,52,Private Insurance
+P00625,Female,45,Self-Pay
+P00626,Male,19,Private Insurance
+P00627,Male,30,Private Insurance
+P00628,Female,58,Private Insurance
+P00629,Male,76,Medicare
+P00630,Male,86,Medicare
+P00631,Female,70,Private Insurance
+P00632,Female,62,Medicaid
+P00633,Female,37,Medicare
+P00634,Female,41,Medicare
+P00635,Male,78,Medicare
+P00636,Male,75,Medicaid
+P00637,Female,44,Private Insurance
+P00638,Male,43,Private Insurance
+P00639,Male,24,Private Insurance
+P00640,Male,59,Private Insurance
+P00641,Male,64,Medicaid
+P00642,Male,70,Medicare
+P00643,Male,76,Medicare
+P00644,Male,55,Private Insurance
+P00645,Male,86,Medicare
+P00646,Female,70,Medicaid
+P00647,Female,32,Private Insurance
+P00648,Female,43,Medicaid
+P00649,Female,65,Self-Pay
+P00650,Female,36,Private Insurance
+P00651,Male,26,Medicare
+P00652,Female,81,Medicaid
+P00653,Female,71,Private Insurance
+P00654,Female,68,Medicare
+P00655,Male,56,Medicare
+P00656,Male,21,Medicaid
+P00657,Male,20,Private Insurance
+P00658,Male,81,Medicaid
+P00659,Female,46,Private Insurance
+P00660,Female,28,Private Insurance
+P00661,Male,75,Medicare
+P00662,Female,44,Private Insurance
+P00663,Female,38,Medicaid
+P00664,Male,56,Medicare
+P00665,Male,63,Private Insurance
+P00666,Male,83,Private Insurance
+P00667,Male,53,Medicare
+P00668,Male,82,Private Insurance
+P00669,Male,80,Private Insurance
+P00670,Male,52,Private Insurance
+P00671,Male,48,Medicare
+P00672,Female,45,Private Insurance
+P00673,Male,18,Medicare
+P00674,Female,42,Medicare
+P00675,Male,60,Private Insurance
+P00676,Female,84,Private Insurance
+P00677,Male,80,Medicaid
+P00678,Male,68,Medicaid
+P00679,Female,19,Medicare
+P00680,Female,81,Private Insurance
+P00681,Female,91,Medicare
+P00682,Male,86,Medicaid
+P00683,Male,26,Medicaid
+P00684,Female,19,Self-Pay
+P00685,Female,51,Private Insurance
+P00686,Female,77,Private Insurance
+P00687,Female,78,Private Insurance
+P00688,Male,48,Medicaid
+P00689,Female,27,Medicare
+P00690,Male,53,Medicare
+P00691,Male,66,Private Insurance
+P00692,Male,87,Medicare
+P00693,Female,66,Medicaid
+P00694,Male,20,Medicare
+P00695,Male,91,Medicare
+P00696,Female,22,Medicaid
+P00697,Male,78,Self-Pay
+P00698,Female,43,Private Insurance
+P00699,Male,89,Private Insurance
+P00700,Male,22,Self-Pay
+P00701,Female,32,Medicare
+P00702,Male,33,Medicare
+P00703,Male,18,Private Insurance
+P00704,Male,33,Private Insurance
+P00705,Male,54,Medicaid
+P00706,Female,20,Self-Pay
+P00707,Male,69,Medicare
+P00708,Female,64,Medicare
+P00709,Male,30,Private Insurance
+P00710,Female,72,Medicaid
+P00711,Female,38,Medicare
+P00712,Female,83,Medicare
+P00713,Male,71,Medicare
+P00714,Male,44,Private Insurance
+P00715,Male,55,Private Insurance
+P00716,Female,75,Private Insurance
+P00717,Female,79,Private Insurance
+P00718,Female,63,Medicaid
+P00719,Male,28,Medicaid
+P00720,Female,89,Medicare
+P00721,Female,25,Medicare
+P00722,Male,88,Medicare
+P00723,Male,81,Private Insurance
+P00724,Female,38,Private Insurance
+P00725,Female,89,Medicaid
+P00726,Female,80,Private Insurance
+P00727,Male,81,Medicare
+P00728,Female,37,Private Insurance
+P00729,Male,25,Private Insurance
+P00730,Male,75,Medicaid
+P00731,Male,63,Medicare
+P00732,Female,48,Private Insurance
+P00733,Female,26,Private Insurance
+P00734,Female,32,Private Insurance
+P00735,Male,43,Private Insurance
+P00736,Female,27,Self-Pay
+P00737,Male,46,Medicare
+P00738,Female,53,Medicare
+P00739,Male,54,Medicare
+P00740,Male,88,Medicare
+P00741,Male,40,Medicaid
+P00742,Male,58,Private Insurance
+P00743,Female,45,Medicaid
+P00744,Female,65,Medicare
+P00745,Male,55,Private Insurance
+P00746,Female,48,Medicare
+P00747,Male,31,Medicare
+P00748,Female,90,Private Insurance
+P00749,Female,46,Private Insurance
+P00750,Female,68,Medicare
+P00751,Male,66,Medicare
+P00752,Female,60,Private Insurance
+P00753,Female,89,Medicare
+P00754,Male,22,Medicare
+P00755,Male,59,Private Insurance
+P00756,Female,24,Medicare
+P00757,Female,59,Medicare
+P00758,Female,53,Medicaid
+P00759,Female,44,Self-Pay
+P00760,Female,75,Self-Pay
+P00761,Male,63,Medicare
+P00762,Male,83,Medicare
+P00763,Male,42,Medicare
+P00764,Female,90,Medicare
+P00765,Male,44,Medicaid
+P00766,Female,18,Private Insurance
+P00767,Female,91,Medicaid
+P00768,Female,59,Medicare
+P00769,Male,69,Medicare
+P00770,Female,42,Medicaid
+P00771,Male,71,Medicare
+P00772,Female,84,Medicaid
+P00773,Male,23,Private Insurance
+P00774,Male,75,Private Insurance
+P00775,Female,87,Medicaid
+P00776,Male,70,Medicaid
+P00777,Male,83,Medicare
+P00778,Female,75,Medicare
+P00779,Female,19,Private Insurance
+P00780,Female,39,Medicare
+P00781,Female,54,Private Insurance
+P00782,Female,37,Private Insurance
+P00783,Male,41,Private Insurance
+P00784,Male,82,Self-Pay
+P00785,Male,82,Medicare
+P00786,Female,18,Self-Pay
+P00787,Female,20,Private Insurance
+P00788,Male,63,Private Insurance
+P00789,Male,72,Medicare
+P00790,Female,81,Private Insurance
+P00791,Male,62,Medicare
+P00792,Female,43,Private Insurance
+P00793,Female,82,Medicare
+P00794,Female,41,Private Insurance
+P00795,Male,91,Medicaid
+P00796,Female,52,Medicare
+P00797,Female,41,Medicare
+P00798,Female,45,Medicaid
+P00799,Female,33,Medicare
+P00800,Female,76,Medicaid
+P00801,Female,71,Private Insurance
+P00802,Male,33,Private Insurance
+P00803,Female,32,Private Insurance
+P00804,Female,28,Medicare
+P00805,Male,82,Medicare
+P00806,Female,85,Medicare
+P00807,Female,60,Private Insurance
+P00808,Female,86,Private Insurance
+P00809,Male,30,Medicare
+P00810,Male,27,Medicare
+P00811,Female,58,Private Insurance
+P00812,Female,67,Private Insurance
+P00813,Male,88,Private Insurance
+P00814,Female,76,Private Insurance
+P00815,Female,56,Medicaid
+P00816,Female,20,Medicare
+P00817,Female,24,Medicaid
+P00818,Male,66,Medicaid
+P00819,Male,43,Medicaid
+P00820,Male,50,Medicaid
+P00821,Female,65,Medicare
+P00822,Male,19,Medicare
+P00823,Male,88,Medicaid
+P00824,Male,49,Medicare
+P00825,Female,21,Medicaid
+P00826,Female,37,Private Insurance
+P00827,Male,53,Private Insurance
+P00828,Male,49,Medicare
+P00829,Female,45,Medicaid
+P00830,Male,18,Medicare
+P00831,Male,77,Private Insurance
+P00832,Male,73,Medicare
+P00833,Male,52,Medicaid
+P00834,Male,47,Private Insurance
+P00835,Female,71,Medicaid
+P00836,Male,53,Medicare
+P00837,Female,72,Medicare
+P00838,Male,75,Medicaid
+P00839,Female,82,Medicaid
+P00840,Female,86,Private Insurance
+P00841,Male,68,Medicaid
+P00842,Female,39,Private Insurance
+P00843,Male,70,Medicaid
+P00844,Female,53,Medicaid
+P00845,Male,85,Medicaid
+P00846,Male,53,Medicare
+P00847,Male,69,Medicaid
+P00848,Female,70,Medicare
+P00849,Female,67,Private Insurance
+P00850,Female,58,Medicare
+P00851,Male,35,Medicare
+P00852,Female,39,Medicare
+P00853,Male,83,Medicare
+P00854,Female,38,Medicaid
+P00855,Male,61,Medicare
+P00856,Male,64,Medicare
+P00857,Male,56,Medicaid
+P00858,Male,46,Private Insurance
+P00859,Female,71,Medicare
+P00860,Male,34,Medicaid
+P00861,Female,77,Private Insurance
+P00862,Male,48,Self-Pay
+P00863,Female,90,Private Insurance
+P00864,Male,66,Medicare
+P00865,Male,19,Private Insurance
+P00866,Female,65,Medicaid
+P00867,Male,31,Medicare
+P00868,Male,76,Private Insurance
+P00869,Female,75,Medicaid
+P00870,Female,75,Self-Pay
+P00871,Male,68,Private Insurance
+P00872,Male,19,Private Insurance
+P00873,Female,58,Private Insurance
+P00874,Male,33,Medicaid
+P00875,Male,21,Medicaid
+P00876,Male,29,Private Insurance
+P00877,Female,46,Private Insurance
+P00878,Female,24,Private Insurance
+P00879,Male,31,Private Insurance
+P00880,Male,29,Self-Pay
+P00881,Male,22,Private Insurance
+P00882,Female,49,Medicaid
+P00883,Male,91,Medicare
+P00884,Male,60,Private Insurance
+P00885,Female,86,Medicare
+P00886,Male,62,Medicare
+P00887,Female,26,Medicare
+P00888,Male,66,Private Insurance
+P00889,Male,50,Private Insurance
+P00890,Male,35,Private Insurance
+P00891,Female,26,Medicaid
+P00892,Female,79,Private Insurance
+P00893,Female,74,Private Insurance
+P00894,Male,46,Medicare
+P00895,Female,42,Medicare
+P00896,Male,32,Medicare
+P00897,Male,23,Medicaid
+P00898,Female,59,Private Insurance
+P00899,Male,46,Medicaid
+P00900,Male,21,Self-Pay
+P00901,Male,74,Medicare
+P00902,Male,66,Medicare
+P00903,Male,61,Medicare
+P00904,Female,31,Medicare
+P00905,Male,20,Medicare
+P00906,Female,79,Medicare
+P00907,Female,81,Medicaid
+P00908,Male,62,Medicare
+P00909,Male,75,Private Insurance
+P00910,Male,37,Medicaid
+P00911,Female,75,Medicare
+P00912,Male,74,Private Insurance
+P00913,Female,85,Medicare
+P00914,Male,69,Private Insurance
+P00915,Female,54,Private Insurance
+P00916,Male,25,Medicare
+P00917,Male,61,Private Insurance
+P00918,Female,22,Private Insurance
+P00919,Female,86,Private Insurance
+P00920,Male,48,Private Insurance
+P00921,Female,62,Medicare
+P00922,Male,26,Private Insurance
+P00923,Female,49,Medicare
+P00924,Female,50,Medicare
+P00925,Male,84,Medicare
+P00926,Male,47,Medicare
+P00927,Male,46,Medicaid
+P00928,Female,20,Private Insurance
+P00929,Female,74,Private Insurance
+P00930,Male,47,Medicare
+P00931,Male,26,Self-Pay
+P00932,Female,43,Private Insurance
+P00933,Female,19,Medicare
+P00934,Female,79,Medicare
+P00935,Male,20,Private Insurance
+P00936,Male,63,Private Insurance
+P00937,Male,85,Private Insurance
+P00938,Female,42,Private Insurance
+P00939,Male,68,Medicaid
+P00940,Female,30,Medicare
+P00941,Male,61,Medicaid
+P00942,Female,52,Medicare
+P00943,Female,72,Private Insurance
+P00944,Female,26,Private Insurance
+P00945,Male,19,Medicaid
+P00946,Male,78,Self-Pay
+P00947,Male,58,Medicaid
+P00948,Female,61,Private Insurance
+P00949,Female,81,Private Insurance
+P00950,Female,48,Self-Pay
+P00951,Female,64,Private Insurance
+P00952,Female,19,Medicare
+P00953,Male,86,Self-Pay
+P00954,Female,75,Private Insurance
+P00955,Male,61,Medicare
+P00956,Male,91,Private Insurance
+P00957,Female,73,Private Insurance
+P00958,Male,60,Medicaid
+P00959,Male,51,Medicare
+P00960,Female,47,Private Insurance
+P00961,Male,88,Private Insurance
+P00962,Female,87,Medicaid
+P00963,Male,72,Medicare
+P00964,Male,84,Medicare
+P00965,Male,30,Private Insurance
+P00966,Male,20,Private Insurance
+P00967,Female,43,Medicare
+P00968,Male,74,Medicare
+P00969,Female,41,Medicare
+P00970,Male,70,Private Insurance
+P00971,Female,87,Medicare
+P00972,Female,60,Medicare
+P00973,Female,77,Medicare
+P00974,Male,75,Private Insurance
+P00975,Male,66,Medicare
+P00976,Male,59,Medicare
+P00977,Female,83,Private Insurance
+P00978,Male,28,Medicare
+P00979,Female,35,Medicare
+P00980,Female,69,Private Insurance
+P00981,Male,63,Medicaid
+P00982,Female,61,Medicaid
+P00983,Male,39,Medicare
+P00984,Male,70,Private Insurance
+P00985,Female,76,Medicaid
+P00986,Female,47,Private Insurance
+P00987,Female,25,Medicare
+P00988,Male,74,Medicaid
+P00989,Male,90,Private Insurance
+P00990,Female,37,Self-Pay
+P00991,Female,42,Medicare
+P00992,Female,36,Private Insurance
+P00993,Male,22,Medicare
+P00994,Female,89,Medicaid
+P00995,Male,44,Medicare
+P00996,Male,57,Private Insurance
+P00997,Female,43,Medicare
+P00998,Male,44,Medicare
+P00999,Female,79,Medicare
+P01000,Male,67,Medicare
+P01001,Male,59,Private Insurance
+P01002,Female,46,Self-Pay
+P01003,Female,56,Private Insurance
+P01004,Female,77,Medicare
+P01005,Female,58,Medicare
+P01006,Female,50,Private Insurance
+P01007,Female,33,Self-Pay
+P01008,Female,40,Medicaid
+P01009,Male,24,Private Insurance
+P01010,Male,43,Self-Pay
+P01011,Male,29,Private Insurance
+P01012,Female,89,Medicare
+P01013,Female,22,Medicare
+P01014,Male,86,Medicaid
+P01015,Female,66,Medicaid
+P01016,Female,43,Medicare
+P01017,Male,22,Medicare
+P01018,Female,39,Private Insurance
+P01019,Female,30,Medicaid
+P01020,Male,45,Medicare
+P01021,Female,50,Private Insurance
+P01022,Male,40,Private Insurance
+P01023,Female,35,Private Insurance
+P01024,Female,47,Medicare
+P01025,Female,43,Private Insurance
+P01026,Male,33,Medicaid
+P01027,Female,56,Medicare
+P01028,Female,50,Private Insurance
+P01029,Male,43,Medicare
+P01030,Female,65,Medicare
+P01031,Male,82,Medicaid
+P01032,Female,55,Medicare
+P01033,Male,19,Medicare
+P01034,Male,23,Private Insurance
+P01035,Male,63,Medicare
+P01036,Female,67,Self-Pay
+P01037,Male,55,Medicaid
+P01038,Female,35,Medicare
+P01039,Male,44,Medicare
+P01040,Male,58,Medicaid
+P01041,Female,89,Private Insurance
+P01042,Female,91,Medicare
+P01043,Male,34,Medicare
+P01044,Female,79,Private Insurance
+P01045,Female,46,Medicare
+P01046,Female,75,Private Insurance
+P01047,Male,87,Private Insurance
+P01048,Male,39,Medicaid
+P01049,Female,23,Medicare
+P01050,Male,43,Medicare
+P01051,Female,56,Private Insurance
+P01052,Female,29,Medicare
+P01053,Female,31,Medicare
+P01054,Female,39,Medicaid
+P01055,Female,68,Medicare
+P01056,Male,40,Medicaid
+P01057,Female,65,Private Insurance
+P01058,Male,88,Medicaid
+P01059,Male,67,Private Insurance
+P01060,Female,30,Private Insurance
+P01061,Female,27,Medicare
+P01062,Female,72,Medicare
+P01063,Female,26,Medicaid
+P01064,Male,69,Private Insurance
+P01065,Male,19,Medicare
+P01066,Female,42,Self-Pay
+P01067,Male,30,Private Insurance
+P01068,Male,68,Medicare
+P01069,Male,75,Private Insurance
+P01070,Male,51,Medicare
+P01071,Male,52,Private Insurance
+P01072,Male,20,Medicaid
+P01073,Male,76,Medicare
+P01074,Male,87,Medicare
+P01075,Female,65,Private Insurance
+P01076,Male,81,Medicaid
+P01077,Male,36,Self-Pay
+P01078,Female,84,Medicare
+P01079,Male,90,Medicare
+P01080,Female,22,Medicare
+P01081,Female,84,Medicaid
+P01082,Male,28,Medicare
+P01083,Male,85,Medicare
+P01084,Female,86,Private Insurance
+P01085,Female,18,Medicaid
+P01086,Male,80,Medicare
+P01087,Female,46,Medicaid
+P01088,Male,29,Private Insurance
+P01089,Female,58,Medicare
+P01090,Male,19,Medicare
+P01091,Female,54,Medicare
+P01092,Female,62,Private Insurance
+P01093,Female,65,Private Insurance
+P01094,Female,41,Medicare
+P01095,Male,39,Medicare
+P01096,Male,28,Private Insurance
+P01097,Male,75,Self-Pay
+P01098,Male,63,Private Insurance
+P01099,Female,46,Self-Pay
+P01100,Male,52,Private Insurance
+P01101,Male,32,Private Insurance
+P01102,Female,77,Medicare
+P01103,Female,59,Medicaid
+P01104,Female,60,Medicare
+P01105,Female,91,Private Insurance
+P01106,Male,66,Private Insurance
+P01107,Male,81,Private Insurance
+P01108,Female,49,Medicare
+P01109,Female,81,Medicare
+P01110,Male,19,Medicare
+P01111,Female,41,Medicare
+P01112,Male,83,Private Insurance
+P01113,Male,55,Private Insurance
+P01114,Female,48,Medicare
+P01115,Female,43,Medicare
+P01116,Female,46,Private Insurance
+P01117,Male,84,Medicare
+P01118,Female,42,Private Insurance
+P01119,Male,65,Medicare
+P01120,Male,82,Medicare
+P01121,Female,70,Medicare
+P01122,Female,84,Medicare
+P01123,Female,35,Medicaid
+P01124,Female,26,Medicare
+P01125,Female,55,Medicaid
+P01126,Female,38,Medicaid
+P01127,Male,82,Medicare
+P01128,Male,38,Medicare
+P01129,Male,44,Medicaid
+P01130,Male,87,Private Insurance
+P01131,Female,61,Private Insurance
+P01132,Female,45,Medicare
+P01133,Male,62,Medicare
+P01134,Male,34,Medicare
+P01135,Female,57,Medicaid
+P01136,Male,20,Private Insurance
+P01137,Female,83,Private Insurance
+P01138,Female,63,Private Insurance
+P01139,Male,47,Medicare
+P01140,Female,86,Medicaid
+P01141,Female,26,Private Insurance
+P01142,Male,28,Medicare
+P01143,Female,86,Medicaid
+P01144,Female,83,Self-Pay
+P01145,Male,48,Private Insurance
+P01146,Female,50,Private Insurance
+P01147,Female,56,Medicare
+P01148,Female,63,Medicare
+P01149,Female,54,Medicare
+P01150,Female,77,Private Insurance
+P01151,Female,48,Medicare
+P01152,Female,28,Private Insurance
+P01153,Female,19,Private Insurance
+P01154,Female,44,Medicaid
+P01155,Female,19,Medicare
+P01156,Female,38,Medicare
+P01157,Male,75,Private Insurance
+P01158,Female,22,Private Insurance
+P01159,Female,69,Private Insurance
+P01160,Male,62,Medicare
+P01161,Female,37,Medicaid
+P01162,Male,78,Private Insurance
+P01163,Male,55,Medicaid
+P01164,Female,37,Private Insurance
+P01165,Male,42,Private Insurance
+P01166,Female,19,Medicare
+P01167,Female,49,Medicare
+P01168,Female,43,Medicaid
+P01169,Male,87,Medicare
+P01170,Male,58,Private Insurance
+P01171,Female,84,Private Insurance
+P01172,Female,18,Private Insurance
+P01173,Female,68,Private Insurance
+P01174,Male,22,Medicare
+P01175,Female,30,Medicare
+P01176,Female,36,Private Insurance
+P01177,Female,29,Medicare
+P01178,Male,65,Private Insurance
+P01179,Female,42,Private Insurance
+P01180,Female,74,Medicare
+P01181,Female,52,Medicare
+P01182,Male,22,Medicaid
+P01183,Female,39,Private Insurance
+P01184,Female,74,Medicare
+P01185,Male,64,Private Insurance
+P01186,Female,71,Medicaid
+P01187,Female,20,Self-Pay
+P01188,Male,70,Medicare
+P01189,Male,48,Medicare
+P01190,Female,86,Private Insurance
+P01191,Male,50,Private Insurance
+P01192,Female,89,Medicaid
+P01193,Male,67,Private Insurance
+P01194,Female,33,Private Insurance
+P01195,Male,56,Medicare
+P01196,Female,63,Medicaid
+P01197,Female,64,Private Insurance
+P01198,Female,61,Medicare
+P01199,Female,26,Medicare
+P01200,Male,67,Private Insurance
+P01201,Female,77,Medicare
+P01202,Male,32,Medicare
+P01203,Male,53,Self-Pay
+P01204,Male,80,Medicaid
+P01205,Male,86,Private Insurance
+P01206,Female,58,Private Insurance
+P01207,Female,91,Medicare
+P01208,Male,41,Medicare
+P01209,Male,66,Medicare
+P01210,Female,35,Medicare
+P01211,Male,24,Private Insurance
+P01212,Male,21,Private Insurance
+P01213,Male,86,Medicaid
+P01214,Female,77,Medicare
+P01215,Female,72,Medicare
+P01216,Male,33,Medicaid
+P01217,Male,46,Medicaid
+P01218,Female,40,Medicare
+P01219,Female,31,Private Insurance
+P01220,Male,66,Medicare
+P01221,Female,50,Medicare
+P01222,Male,42,Private Insurance
+P01223,Male,38,Medicare
+P01224,Female,34,Medicaid
+P01225,Male,40,Medicare
+P01226,Female,74,Medicare
+P01227,Male,75,Medicare
+P01228,Male,31,Private Insurance
+P01229,Female,37,Medicaid
+P01230,Male,47,Self-Pay
+P01231,Female,36,Medicaid
+P01232,Male,70,Medicaid
+P01233,Male,73,Medicare
+P01234,Male,40,Medicare
+P01235,Female,79,Medicare
+P01236,Male,50,Medicare
+P01237,Female,35,Medicaid
+P01238,Male,90,Medicare
+P01239,Female,50,Medicare
+P01240,Male,49,Medicare
+P01241,Female,78,Medicaid
+P01242,Female,71,Private Insurance
+P01243,Female,34,Private Insurance
+P01244,Female,36,Medicare
+P01245,Female,87,Medicare
+P01246,Female,51,Medicare
+P01247,Male,42,Private Insurance
+P01248,Male,85,Medicare
+P01249,Female,91,Private Insurance
+P01250,Female,91,Medicaid
+P01251,Female,28,Medicare
+P01252,Male,33,Medicare
+P01253,Male,78,Medicare
+P01254,Male,24,Private Insurance
+P01255,Female,33,Medicaid
+P01256,Male,33,Medicaid
+P01257,Male,57,Medicaid
+P01258,Female,29,Private Insurance
+P01259,Male,52,Medicaid
+P01260,Female,38,Medicare
+P01261,Male,67,Medicare
+P01262,Female,60,Medicare
+P01263,Male,34,Private Insurance
+P01264,Male,49,Medicare
+P01265,Male,58,Medicaid
+P01266,Male,23,Medicare
+P01267,Male,44,Private Insurance
+P01268,Male,37,Medicare
+P01269,Female,42,Medicare
+P01270,Male,83,Private Insurance
+P01271,Female,26,Medicare
+P01272,Female,70,Self-Pay
+P01273,Female,78,Medicare
+P01274,Male,55,Medicare
+P01275,Male,20,Private Insurance
+P01276,Male,87,Private Insurance
+P01277,Male,72,Medicare
+P01278,Female,18,Private Insurance
+P01279,Male,87,Medicaid
+P01280,Female,62,Private Insurance
+P01281,Female,64,Medicare
+P01282,Female,43,Medicare
+P01283,Female,31,Private Insurance
+P01284,Male,71,Private Insurance
+P01285,Male,88,Medicaid
+P01286,Female,63,Medicare
+P01287,Male,48,Medicare
+P01288,Male,76,Medicaid
+P01289,Male,46,Medicare
+P01290,Male,34,Medicare
+P01291,Male,31,Medicare
+P01292,Male,53,Private Insurance
+P01293,Female,75,Medicare
+P01294,Female,41,Medicaid
+P01295,Female,80,Medicaid
+P01296,Male,42,Private Insurance
+P01297,Male,76,Medicare
+P01298,Male,49,Medicare
+P01299,Female,35,Private Insurance
+P01300,Female,54,Private Insurance
+P01301,Male,43,Private Insurance
+P01302,Female,26,Private Insurance
+P01303,Male,81,Private Insurance
+P01304,Female,89,Private Insurance
+P01305,Female,37,Medicare
+P01306,Female,71,Medicare
+P01307,Female,47,Medicaid
+P01308,Female,70,Medicare
+P01309,Male,80,Medicaid
+P01310,Female,28,Medicare
+P01311,Male,48,Private Insurance
+P01312,Female,66,Medicaid
+P01313,Female,36,Medicaid
+P01314,Female,29,Self-Pay
+P01315,Male,32,Medicare
+P01316,Female,48,Medicare
+P01317,Female,60,Medicare
+P01318,Female,54,Private Insurance
+P01319,Male,46,Medicaid
+P01320,Male,43,Private Insurance
+P01321,Male,19,Medicare
+P01322,Male,32,Medicaid
+P01323,Female,21,Medicare
+P01324,Male,67,Private Insurance
+P01325,Female,55,Private Insurance
+P01326,Male,40,Private Insurance
+P01327,Male,76,Private Insurance
+P01328,Female,45,Medicaid
+P01329,Female,83,Private Insurance
+P01330,Female,25,Medicaid
+P01331,Female,46,Private Insurance
+P01332,Female,28,Medicare
+P01333,Male,35,Medicare
+P01334,Female,72,Medicare
+P01335,Female,67,Medicaid
+P01336,Female,31,Medicare
+P01337,Male,91,Private Insurance
+P01338,Female,26,Medicare
+P01339,Male,28,Medicare
+P01340,Male,80,Private Insurance
+P01341,Male,84,Medicaid
+P01342,Male,70,Private Insurance
+P01343,Female,56,Medicaid
+P01344,Female,73,Self-Pay
+P01345,Female,45,Medicaid
+P01346,Male,56,Medicare
+P01347,Male,42,Medicare
+P01348,Male,38,Medicare
+P01349,Female,27,Private Insurance
+P01350,Male,60,Medicare
+P01351,Female,32,Medicare
+P01352,Female,65,Medicare
+P01353,Male,38,Private Insurance
+P01354,Female,77,Medicare
+P01355,Male,67,Self-Pay
+P01356,Female,40,Medicare
+P01357,Female,30,Medicare
+P01358,Male,86,Medicare
+P01359,Male,21,Private Insurance
+P01360,Female,89,Private Insurance
+P01361,Female,26,Medicare
+P01362,Male,52,Medicare
+P01363,Female,38,Private Insurance
+P01364,Female,75,Medicare
+P01365,Female,35,Medicare
+P01366,Male,89,Medicare
+P01367,Female,60,Medicare
+P01368,Female,23,Medicare
+P01369,Male,84,Medicare
+P01370,Male,29,Medicare
+P01371,Female,29,Private Insurance
+P01372,Male,83,Medicare
+P01373,Female,19,Private Insurance
+P01374,Female,32,Medicare
+P01375,Male,40,Private Insurance
+P01376,Female,46,Medicare
+P01377,Male,24,Private Insurance
+P01378,Female,45,Medicare
+P01379,Male,31,Private Insurance
+P01380,Female,61,Medicare
+P01381,Male,47,Medicare
+P01382,Male,49,Self-Pay
+P01383,Female,87,Medicaid
+P01384,Male,23,Medicare
+P01385,Female,44,Private Insurance
+P01386,Male,41,Medicare
+P01387,Female,51,Medicare
+P01388,Male,57,Self-Pay
+P01389,Female,64,Medicare
+P01390,Male,41,Private Insurance
+P01391,Male,82,Medicare
+P01392,Male,35,Private Insurance
+P01393,Male,61,Medicaid
+P01394,Female,74,Self-Pay
+P01395,Male,45,Medicaid
+P01396,Female,88,Medicare
+P01397,Male,40,Private Insurance
+P01398,Male,51,Medicare
+P01399,Female,28,Private Insurance
+P01400,Female,52,Private Insurance
+P01401,Male,59,Medicaid
+P01402,Male,45,Private Insurance
+P01403,Male,41,Medicare
+P01404,Female,25,Medicaid
+P01405,Female,70,Medicare
+P01406,Male,89,Private Insurance
+P01407,Female,21,Medicare
+P01408,Female,22,Private Insurance
+P01409,Female,66,Medicare
+P01410,Female,47,Private Insurance
+P01411,Male,89,Medicare
+P01412,Male,80,Private Insurance
+P01413,Male,64,Medicare
+P01414,Male,43,Medicaid
+P01415,Female,74,Medicare
+P01416,Female,54,Private Insurance
+P01417,Male,24,Medicare
+P01418,Male,57,Private Insurance
+P01419,Male,56,Medicare
+P01420,Female,79,Private Insurance
+P01421,Male,70,Medicare
+P01422,Female,21,Medicare
+P01423,Male,42,Medicaid
+P01424,Male,24,Medicare
+P01425,Female,45,Medicare
+P01426,Female,86,Private Insurance
+P01427,Male,84,Self-Pay
+P01428,Female,37,Private Insurance
+P01429,Female,28,Medicare
+P01430,Female,84,Medicare
+P01431,Male,24,Private Insurance
+P01432,Female,40,Medicare
+P01433,Male,78,Private Insurance
+P01434,Female,88,Medicare
+P01435,Male,51,Self-Pay
+P01436,Male,36,Medicaid
+P01437,Male,75,Private Insurance
+P01438,Female,26,Medicare
+P01439,Male,65,Private Insurance
+P01440,Female,58,Medicare
+P01441,Female,65,Private Insurance
+P01442,Male,62,Private Insurance
+P01443,Female,42,Medicare
+P01444,Male,42,Medicaid
+P01445,Female,36,Medicaid
+P01446,Male,56,Medicare
+P01447,Female,44,Medicaid
+P01448,Female,91,Medicare
+P01449,Female,80,Medicare
+P01450,Female,85,Private Insurance
+P01451,Female,36,Private Insurance
+P01452,Female,45,Medicare
+P01453,Female,50,Private Insurance
+P01454,Female,27,Private Insurance
+P01455,Male,47,Medicaid
+P01456,Female,39,Medicaid
+P01457,Female,20,Medicare
+P01458,Female,65,Private Insurance
+P01459,Male,19,Private Insurance
+P01460,Female,71,Medicare
+P01461,Male,23,Private Insurance
+P01462,Female,57,Medicare
+P01463,Male,19,Medicare
+P01464,Female,90,Private Insurance
+P01465,Female,19,Private Insurance
+P01466,Male,91,Medicare
+P01467,Female,72,Medicaid
+P01468,Male,89,Private Insurance
+P01469,Female,77,Medicaid
+P01470,Female,23,Private Insurance
+P01471,Female,36,Medicare
+P01472,Female,44,Medicare
+P01473,Female,18,Medicare
+P01474,Male,50,Medicaid
+P01475,Male,57,Private Insurance
+P01476,Female,49,Medicare
+P01477,Female,86,Medicare
+P01478,Female,34,Medicare
+P01479,Female,25,Medicare
+P01480,Male,74,Private Insurance
+P01481,Female,59,Private Insurance
+P01482,Male,26,Medicare
+P01483,Female,52,Private Insurance
+P01484,Male,88,Private Insurance
+P01485,Male,70,Private Insurance
+P01486,Male,71,Medicare
+P01487,Male,42,Medicare
+P01488,Female,84,Medicare
+P01489,Male,79,Private Insurance
+P01490,Male,72,Private Insurance
+P01491,Male,63,Medicaid
+P01492,Male,41,Medicare
+P01493,Male,63,Medicare
+P01494,Male,39,Medicare
+P01495,Female,28,Self-Pay
+P01496,Female,65,Medicare
+P01497,Female,25,Medicare
+P01498,Male,56,Self-Pay
+P01499,Male,52,Medicaid
+P01500,Female,66,Private Insurance
+P01501,Female,63,Medicare
+P01502,Male,55,Medicaid
+P01503,Male,25,Medicare
+P01504,Male,71,Private Insurance
+P01505,Male,54,Medicare
+P01506,Male,57,Medicare
+P01507,Female,51,Private Insurance
+P01508,Female,34,Medicaid
+P01509,Female,50,Medicaid
+P01510,Female,64,Medicare
+P01511,Female,69,Medicare
+P01512,Female,26,Private Insurance
+P01513,Female,50,Private Insurance
+P01514,Male,77,Self-Pay
+P01515,Male,38,Private Insurance
+P01516,Male,75,Medicaid
+P01517,Female,86,Private Insurance
+P01518,Female,27,Medicare
+P01519,Male,23,Medicaid
+P01520,Female,30,Medicare
+P01521,Male,82,Medicare
+P01522,Female,37,Private Insurance
+P01523,Male,74,Medicaid
+P01524,Male,63,Medicaid
+P01525,Male,25,Medicare
+P01526,Male,27,Medicaid
+P01527,Male,90,Medicare
+P01528,Male,84,Private Insurance
+P01529,Female,28,Medicaid
+P01530,Female,29,Private Insurance
+P01531,Male,27,Medicare
+P01532,Female,42,Medicare
+P01533,Female,66,Private Insurance
+P01534,Male,66,Private Insurance
+P01535,Male,28,Medicaid
+P01536,Male,79,Private Insurance
+P01537,Male,53,Self-Pay
+P01538,Female,56,Self-Pay
+P01539,Male,70,Private Insurance
+P01540,Female,73,Private Insurance
+P01541,Female,18,Medicare
+P01542,Male,73,Private Insurance
+P01543,Female,21,Medicare
+P01544,Male,47,Self-Pay
+P01545,Female,29,Medicare
+P01546,Male,52,Medicaid
+P01547,Female,69,Medicaid
+P01548,Female,48,Medicare
+P01549,Male,85,Medicare
+P01550,Female,69,Medicaid
+P01551,Female,24,Private Insurance
+P01552,Female,39,Private Insurance
+P01553,Female,73,Medicare
+P01554,Female,75,Private Insurance
+P01555,Male,81,Medicare
+P01556,Male,29,Medicare
+P01557,Female,24,Private Insurance
+P01558,Male,72,Private Insurance
+P01559,Female,79,Medicaid
+P01560,Female,90,Medicaid
+P01561,Male,72,Medicare
+P01562,Male,53,Medicaid
+P01563,Female,41,Medicare
+P01564,Male,61,Self-Pay
+P01565,Female,34,Private Insurance
+P01566,Male,19,Private Insurance
+P01567,Female,30,Medicaid
+P01568,Male,48,Private Insurance
+P01569,Female,45,Medicaid
+P01570,Male,77,Medicare
+P01571,Female,44,Medicare
+P01572,Male,32,Private Insurance
+P01573,Female,50,Private Insurance
+P01574,Female,37,Medicare
+P01575,Male,59,Medicare
+P01576,Male,29,Medicaid
+P01577,Male,90,Private Insurance
+P01578,Female,40,Medicare
+P01579,Female,89,Medicare
+P01580,Female,31,Private Insurance
+P01581,Male,42,Medicaid
+P01582,Male,48,Medicare
+P01583,Female,71,Medicare
+P01584,Female,22,Private Insurance
+P01585,Female,30,Medicaid
+P01586,Male,45,Self-Pay
+P01587,Female,60,Private Insurance
+P01588,Male,64,Medicare
+P01589,Male,88,Medicaid
+P01590,Female,55,Medicare
+P01591,Female,84,Medicare
+P01592,Female,79,Private Insurance
+P01593,Male,56,Private Insurance
+P01594,Male,54,Medicare
+P01595,Female,25,Medicare
+P01596,Female,69,Medicare
+P01597,Male,50,Medicare
+P01598,Male,59,Medicaid
+P01599,Male,44,Medicaid
+P01600,Female,25,Self-Pay
+P01601,Male,40,Medicare
+P01602,Male,81,Medicaid
+P01603,Male,37,Private Insurance
+P01604,Male,33,Medicaid
+P01605,Male,34,Medicare
+P01606,Female,36,Medicare
+P01607,Male,25,Medicare
+P01608,Female,55,Self-Pay
+P01609,Male,55,Private Insurance
+P01610,Female,70,Private Insurance
+P01611,Female,48,Private Insurance
+P01612,Female,61,Medicare
+P01613,Female,77,Private Insurance
+P01614,Male,34,Self-Pay
+P01615,Male,90,Medicare
+P01616,Female,56,Medicare
+P01617,Female,59,Medicaid
+P01618,Female,65,Medicare
+P01619,Female,29,Medicare
+P01620,Female,35,Private Insurance
+P01621,Male,23,Private Insurance
+P01622,Male,60,Medicare
+P01623,Female,52,Medicare
+P01624,Female,71,Private Insurance
+P01625,Male,79,Private Insurance
+P01626,Female,86,Medicare
+P01627,Male,33,Private Insurance
+P01628,Female,25,Private Insurance
+P01629,Male,48,Private Insurance
+P01630,Male,27,Medicare
+P01631,Female,73,Medicare
+P01632,Male,87,Private Insurance
+P01633,Female,37,Medicare
+P01634,Female,22,Private Insurance
+P01635,Female,40,Medicare
+P01636,Male,26,Medicare
+P01637,Male,75,Medicare
+P01638,Male,76,Medicare
+P01639,Female,71,Private Insurance
+P01640,Female,63,Medicare
+P01641,Female,39,Private Insurance
+P01642,Female,81,Private Insurance
+P01643,Female,25,Medicare
+P01644,Female,37,Private Insurance
+P01645,Male,68,Medicare
+P01646,Female,56,Private Insurance
+P01647,Male,54,Medicaid
+P01648,Female,67,Medicare
+P01649,Female,51,Medicare
+P01650,Female,50,Private Insurance
+P01651,Male,48,Private Insurance
+P01652,Male,71,Medicare
+P01653,Male,61,Medicaid
+P01654,Male,51,Medicare
+P01655,Male,88,Private Insurance
+P01656,Female,79,Medicare
+P01657,Female,40,Private Insurance
+P01658,Male,63,Medicare
+P01659,Male,73,Medicaid
+P01660,Male,24,Private Insurance
+P01661,Female,78,Private Insurance
+P01662,Female,20,Private Insurance
+P01663,Female,55,Medicaid
+P01664,Female,51,Private Insurance
+P01665,Female,61,Medicaid
+P01666,Female,47,Private Insurance
+P01667,Male,34,Medicaid
+P01668,Female,76,Medicaid
+P01669,Male,27,Medicare
+P01670,Female,35,Medicaid
+P01671,Male,62,Medicare
+P01672,Female,76,Private Insurance
+P01673,Female,79,Private Insurance
+P01674,Female,76,Self-Pay
+P01675,Female,66,Medicare
+P01676,Male,80,Medicare
+P01677,Male,49,Private Insurance
+P01678,Male,27,Medicare
+P01679,Male,28,Medicaid
+P01680,Female,87,Private Insurance
+P01681,Male,79,Medicaid
+P01682,Female,64,Medicare
+P01683,Female,51,Private Insurance
+P01684,Female,34,Medicare
+P01685,Male,71,Private Insurance
+P01686,Female,57,Medicare
+P01687,Female,36,Private Insurance
+P01688,Male,84,Medicare
+P01689,Female,70,Private Insurance
+P01690,Female,81,Medicare
+P01691,Male,64,Private Insurance
+P01692,Female,23,Medicaid
+P01693,Male,33,Medicare
+P01694,Male,89,Private Insurance
+P01695,Male,35,Medicaid
+P01696,Male,69,Medicare
+P01697,Male,65,Medicare
+P01698,Male,60,Medicare
+P01699,Female,56,Medicare
+P01700,Female,66,Medicare
+P01701,Female,29,Medicare
+P01702,Male,27,Private Insurance
+P01703,Male,88,Medicaid
+P01704,Female,72,Medicare
+P01705,Male,18,Self-Pay
+P01706,Male,66,Private Insurance
+P01707,Female,53,Medicare
+P01708,Male,38,Medicare
+P01709,Female,54,Private Insurance
+P01710,Female,41,Medicaid
+P01711,Male,72,Medicare
+P01712,Male,42,Medicaid
+P01713,Female,24,Private Insurance
+P01714,Male,88,Medicare
+P01715,Male,88,Private Insurance
+P01716,Female,41,Private Insurance
+P01717,Male,28,Medicaid
+P01718,Female,90,Private Insurance
+P01719,Female,29,Medicare
+P01720,Male,52,Medicaid
+P01721,Male,80,Medicaid
+P01722,Male,85,Medicaid
+P01723,Male,74,Medicare
+P01724,Male,30,Medicare
+P01725,Female,40,Medicare
+P01726,Male,56,Medicare
+P01727,Female,29,Medicare
+P01728,Female,51,Private Insurance
+P01729,Female,88,Medicare
+P01730,Female,48,Private Insurance
+P01731,Male,79,Medicare
+P01732,Female,30,Medicare
+P01733,Female,48,Medicare
+P01734,Male,19,Medicare
+P01735,Male,32,Medicaid
+P01736,Female,74,Medicare
+P01737,Male,51,Self-Pay
+P01738,Male,85,Self-Pay
+P01739,Male,46,Medicaid
+P01740,Male,83,Private Insurance
+P01741,Female,33,Medicare
+P01742,Female,56,Medicaid
+P01743,Female,54,Private Insurance
+P01744,Male,38,Medicare
+P01745,Male,61,Medicare
+P01746,Male,36,Medicare
+P01747,Male,88,Medicaid
+P01748,Male,25,Medicaid
+P01749,Female,83,Medicare
+P01750,Male,58,Medicaid
+P01751,Female,87,Medicaid
+P01752,Male,78,Private Insurance
+P01753,Male,43,Medicare
+P01754,Male,88,Private Insurance
+P01755,Female,87,Private Insurance
+P01756,Female,46,Private Insurance
+P01757,Female,83,Private Insurance
+P01758,Male,36,Medicaid
+P01759,Male,85,Medicare
+P01760,Female,75,Medicaid
+P01761,Male,87,Self-Pay
+P01762,Female,74,Medicaid
+P01763,Male,54,Medicare
+P01764,Male,78,Medicare
+P01765,Male,47,Self-Pay
+P01766,Male,88,Medicare
+P01767,Female,90,Medicare
+P01768,Male,42,Medicare
+P01769,Male,82,Self-Pay
+P01770,Male,23,Medicare
+P01771,Male,35,Medicare
+P01772,Female,27,Private Insurance
+P01773,Female,28,Medicare
+P01774,Female,82,Private Insurance
+P01775,Female,82,Medicaid
+P01776,Male,69,Medicaid
+P01777,Female,84,Private Insurance
+P01778,Male,48,Self-Pay
+P01779,Male,34,Medicaid
+P01780,Female,72,Medicare
+P01781,Male,53,Private Insurance
+P01782,Female,43,Medicare
+P01783,Male,70,Private Insurance
+P01784,Female,34,Private Insurance
+P01785,Female,42,Medicare
+P01786,Female,19,Self-Pay
+P01787,Female,22,Medicare
+P01788,Female,21,Private Insurance
+P01789,Male,53,Medicare
+P01790,Female,23,Private Insurance
+P01791,Male,38,Private Insurance
+P01792,Female,43,Private Insurance
+P01793,Female,72,Private Insurance
+P01794,Female,56,Medicaid
+P01795,Male,50,Medicare
+P01796,Male,31,Private Insurance
+P01797,Female,73,Private Insurance
+P01798,Male,38,Private Insurance
+P01799,Male,63,Private Insurance
+P01800,Male,33,Medicare
+P01801,Female,33,Medicaid
+P01802,Female,46,Medicare
+P01803,Male,25,Private Insurance
+P01804,Male,20,Medicare
+P01805,Male,36,Private Insurance
+P01806,Female,83,Medicare
+P01807,Female,91,Medicare
+P01808,Male,39,Medicare
+P01809,Male,63,Medicare
+P01810,Male,30,Private Insurance
+P01811,Female,50,Medicare
+P01812,Female,22,Medicare
+P01813,Male,44,Medicare
+P01814,Male,41,Private Insurance
+P01815,Male,84,Private Insurance
+P01816,Female,80,Medicare
+P01817,Male,65,Private Insurance
+P01818,Female,80,Medicaid
+P01819,Female,29,Medicare
+P01820,Male,45,Private Insurance
+P01821,Male,61,Medicare
+P01822,Male,60,Private Insurance
+P01823,Female,34,Medicare
+P01824,Female,57,Self-Pay
+P01825,Female,66,Medicare
+P01826,Female,74,Medicaid
+P01827,Male,81,Private Insurance
+P01828,Female,74,Medicare
+P01829,Female,91,Medicaid
+P01830,Male,91,Medicare
+P01831,Female,87,Medicaid
+P01832,Female,60,Medicare
+P01833,Female,40,Medicare
+P01834,Female,44,Private Insurance
+P01835,Female,75,Medicare
+P01836,Female,54,Private Insurance
+P01837,Male,23,Medicare
+P01838,Male,82,Medicare
+P01839,Female,23,Medicaid
+P01840,Male,67,Medicaid
+P01841,Male,39,Medicare
+P01842,Male,42,Medicare
+P01843,Male,89,Medicare
+P01844,Female,68,Medicare
+P01845,Female,65,Medicare
+P01846,Male,87,Medicare
+P01847,Male,82,Private Insurance
+P01848,Male,77,Medicaid
+P01849,Female,63,Medicare
+P01850,Female,53,Medicare
+P01851,Male,75,Medicare
+P01852,Female,55,Medicaid
+P01853,Female,28,Private Insurance
+P01854,Female,29,Private Insurance
+P01855,Female,59,Private Insurance
+P01856,Male,56,Private Insurance
+P01857,Female,88,Medicare
+P01858,Male,28,Medicare
+P01859,Female,53,Private Insurance
+P01860,Female,69,Medicare
+P01861,Female,48,Medicaid
+P01862,Female,50,Private Insurance
+P01863,Male,30,Private Insurance
+P01864,Female,35,Medicare
+P01865,Female,58,Medicaid
+P01866,Female,75,Private Insurance
+P01867,Male,73,Private Insurance
+P01868,Male,41,Private Insurance
+P01869,Male,90,Self-Pay
+P01870,Female,48,Medicare
+P01871,Female,72,Medicaid
+P01872,Male,27,Medicare
+P01873,Female,77,Medicare
+P01874,Female,19,Private Insurance
+P01875,Female,32,Self-Pay
+P01876,Female,20,Medicare
+P01877,Female,60,Medicare
+P01878,Female,48,Medicare
+P01879,Male,87,Private Insurance
+P01880,Female,84,Medicare
+P01881,Female,73,Medicare
+P01882,Female,80,Medicare
+P01883,Female,32,Medicaid
+P01884,Female,27,Private Insurance
+P01885,Male,55,Medicare
+P01886,Male,64,Medicaid
+P01887,Male,74,Medicare
+P01888,Male,67,Medicaid
+P01889,Female,88,Private Insurance
+P01890,Female,32,Medicare
+P01891,Male,35,Medicare
+P01892,Male,19,Private Insurance
+P01893,Female,60,Medicare
+P01894,Male,43,Private Insurance
+P01895,Female,88,Medicare
+P01896,Female,55,Medicare
+P01897,Female,59,Private Insurance
+P01898,Male,22,Private Insurance
+P01899,Male,28,Medicaid
+P01900,Female,82,Medicare
+P01901,Female,51,Medicaid
+P01902,Male,18,Medicaid
+P01903,Female,19,Medicaid
+P01904,Male,37,Private Insurance
+P01905,Female,78,Medicare
+P01906,Male,38,Medicaid
+P01907,Female,85,Medicaid
+P01908,Male,29,Medicare
+P01909,Male,39,Private Insurance
+P01910,Male,37,Medicare
+P01911,Male,18,Medicare
+P01912,Female,47,Self-Pay
+P01913,Female,41,Medicare
+P01914,Male,31,Medicare
+P01915,Male,53,Medicaid
+P01916,Female,86,Self-Pay
+P01917,Female,41,Self-Pay
+P01918,Female,77,Medicaid
+P01919,Male,72,Medicare
+P01920,Male,41,Private Insurance
+P01921,Female,41,Medicaid
+P01922,Male,71,Medicare
+P01923,Female,43,Private Insurance
+P01924,Male,83,Medicare
+P01925,Female,55,Medicare
+P01926,Male,82,Private Insurance
+P01927,Female,68,Medicaid
+P01928,Male,52,Medicare
+P01929,Female,60,Medicare
+P01930,Male,46,Medicaid
+P01931,Female,54,Medicare
+P01932,Female,75,Medicare
+P01933,Female,71,Private Insurance
+P01934,Female,56,Private Insurance
+P01935,Female,59,Medicaid
+P01936,Female,45,Private Insurance
+P01937,Male,46,Private Insurance
+P01938,Female,60,Private Insurance
+P01939,Female,20,Medicare
+P01940,Male,27,Private Insurance
+P01941,Male,76,Medicaid
+P01942,Male,31,Medicare
+P01943,Female,64,Medicare
+P01944,Female,59,Private Insurance
+P01945,Female,49,Medicare
+P01946,Female,49,Medicare
+P01947,Male,59,Private Insurance
+P01948,Male,49,Private Insurance
+P01949,Male,43,Private Insurance
+P01950,Male,18,Medicare
+P01951,Male,73,Medicare
+P01952,Male,19,Private Insurance
+P01953,Female,47,Medicare
+P01954,Female,88,Private Insurance
+P01955,Female,69,Medicare
+P01956,Female,26,Private Insurance
+P01957,Female,39,Medicaid
+P01958,Male,51,Medicare
+P01959,Female,66,Private Insurance
+P01960,Female,18,Medicare
+P01961,Male,90,Medicare
+P01962,Male,70,Private Insurance
+P01963,Female,57,Medicare
+P01964,Male,62,Medicare
+P01965,Female,85,Medicare
+P01966,Female,26,Medicare
+P01967,Male,39,Medicare
+P01968,Male,35,Private Insurance
+P01969,Male,60,Private Insurance
+P01970,Male,56,Medicare
+P01971,Male,90,Medicare
+P01972,Female,23,Private Insurance
+P01973,Male,65,Self-Pay
+P01974,Female,24,Medicaid
+P01975,Male,86,Private Insurance
+P01976,Female,33,Private Insurance
+P01977,Male,18,Medicare
+P01978,Male,54,Medicare
+P01979,Female,54,Medicare
+P01980,Female,81,Private Insurance
+P01981,Male,79,Private Insurance
+P01982,Female,89,Private Insurance
+P01983,Male,78,Medicare
+P01984,Male,50,Private Insurance
+P01985,Male,83,Private Insurance
+P01986,Male,47,Private Insurance
+P01987,Female,37,Medicare
+P01988,Female,77,Private Insurance
+P01989,Male,91,Medicare
+P01990,Female,41,Private Insurance
+P01991,Female,21,Private Insurance
+P01992,Male,54,Medicare
+P01993,Female,21,Private Insurance
+P01994,Male,35,Medicare
+P01995,Female,83,Private Insurance
+P01996,Female,65,Medicare
+P01997,Female,50,Private Insurance
+P01998,Male,75,Private Insurance
+P01999,Male,90,Medicare
+P02000,Male,45,Medicaid
+P02001,Male,52,Medicaid
+P02002,Male,27,Medicare
+P02003,Female,82,Medicaid
+P02004,Male,59,Private Insurance
+P02005,Male,26,Private Insurance
+P02006,Female,77,Private Insurance
+P02007,Male,32,Medicaid
+P02008,Female,74,Private Insurance
+P02009,Male,86,Private Insurance
+P02010,Male,39,Medicaid
+P02011,Male,81,Medicare
+P02012,Male,58,Medicaid
+P02013,Female,88,Private Insurance
+P02014,Male,73,Medicaid
+P02015,Female,40,Private Insurance
+P02016,Male,42,Medicare
+P02017,Male,23,Self-Pay
+P02018,Female,51,Medicare
+P02019,Male,80,Private Insurance
+P02020,Female,26,Medicare
+P02021,Female,77,Medicare
+P02022,Female,66,Private Insurance
+P02023,Female,68,Self-Pay
+P02024,Male,77,Medicare
+P02025,Male,87,Medicare
+P02026,Male,54,Medicare
+P02027,Female,48,Medicare
+P02028,Female,58,Medicare
+P02029,Male,79,Private Insurance
+P02030,Female,75,Private Insurance
+P02031,Male,31,Medicare
+P02032,Female,53,Medicaid
+P02033,Male,53,Medicare
+P02034,Female,25,Medicare
+P02035,Female,43,Medicare
+P02036,Male,53,Medicaid
+P02037,Male,65,Medicare
+P02038,Male,45,Medicaid
+P02039,Male,85,Medicare
+P02040,Male,79,Medicare
+P02041,Female,68,Medicare
+P02042,Female,59,Private Insurance
+P02043,Female,46,Private Insurance
+P02044,Male,27,Private Insurance
+P02045,Female,56,Medicare
+P02046,Female,18,Medicare
+P02047,Male,56,Medicare
+P02048,Female,38,Medicare
+P02049,Female,82,Private Insurance
+P02050,Male,32,Medicare
+P02051,Male,21,Medicare
+P02052,Male,77,Medicaid
+P02053,Male,78,Medicaid
+P02054,Female,37,Self-Pay
+P02055,Female,27,Medicare
+P02056,Female,51,Private Insurance
+P02057,Male,65,Medicare
+P02058,Male,50,Self-Pay
+P02059,Female,78,Medicaid
+P02060,Female,27,Private Insurance
+P02061,Male,71,Medicare
+P02062,Female,82,Private Insurance
+P02063,Female,18,Medicare
+P02064,Male,22,Medicaid
+P02065,Male,32,Private Insurance
+P02066,Female,45,Self-Pay
+P02067,Male,40,Medicaid
+P02068,Male,34,Private Insurance
+P02069,Male,30,Medicare
+P02070,Male,31,Private Insurance
+P02071,Female,28,Private Insurance
+P02072,Female,45,Medicaid
+P02073,Male,59,Private Insurance
+P02074,Female,78,Private Insurance
+P02075,Female,81,Medicare
+P02076,Female,48,Private Insurance
+P02077,Male,90,Medicare
+P02078,Male,27,Private Insurance
+P02079,Female,25,Private Insurance
+P02080,Female,38,Medicare
+P02081,Male,76,Private Insurance
+P02082,Male,67,Medicaid
+P02083,Male,86,Medicaid
+P02084,Female,87,Medicare
+P02085,Female,47,Medicare
+P02086,Female,34,Private Insurance
+P02087,Male,37,Medicare
+P02088,Female,65,Medicaid
+P02089,Female,90,Private Insurance
+P02090,Male,19,Medicare
+P02091,Female,54,Medicaid
+P02092,Female,18,Medicaid
+P02093,Male,21,Private Insurance
+P02094,Female,71,Medicare
+P02095,Male,42,Medicaid
+P02096,Female,20,Medicare
+P02097,Female,26,Private Insurance
+P02098,Female,91,Medicare
+P02099,Female,51,Self-Pay
+P02100,Male,60,Private Insurance
+P02101,Female,91,Private Insurance
+P02102,Female,39,Medicaid
+P02103,Male,87,Medicare
+P02104,Female,19,Private Insurance
+P02105,Female,83,Medicare
+P02106,Male,49,Medicare
+P02107,Female,33,Medicare
+P02108,Female,18,Self-Pay
+P02109,Male,89,Private Insurance
+P02110,Female,65,Medicaid
+P02111,Male,67,Private Insurance
+P02112,Male,30,Medicare
+P02113,Male,32,Private Insurance
+P02114,Female,70,Medicare
+P02115,Female,61,Private Insurance
+P02116,Male,25,Medicare
+P02117,Male,91,Medicare
+P02118,Female,63,Medicaid
+P02119,Male,86,Medicaid
+P02120,Female,36,Private Insurance
+P02121,Female,55,Medicare
+P02122,Female,28,Medicare
+P02123,Female,60,Medicaid
+P02124,Male,37,Medicaid
+P02125,Female,37,Medicare
+P02126,Female,38,Medicaid
+P02127,Female,74,Medicare
+P02128,Male,67,Medicare
+P02129,Female,91,Medicare
+P02130,Male,43,Private Insurance
+P02131,Male,47,Private Insurance
+P02132,Male,90,Medicare
+P02133,Female,48,Private Insurance
+P02134,Female,59,Private Insurance
+P02135,Female,85,Medicare
+P02136,Female,78,Private Insurance
+P02137,Male,78,Medicare
+P02138,Female,87,Private Insurance
+P02139,Male,85,Medicaid
+P02140,Female,34,Medicare
+P02141,Female,36,Medicare
+P02142,Female,68,Self-Pay
+P02143,Female,87,Private Insurance
+P02144,Male,80,Medicaid
+P02145,Male,47,Medicare
+P02146,Female,42,Medicare
+P02147,Male,88,Medicare
+P02148,Male,43,Medicare
+P02149,Female,73,Medicaid
+P02150,Female,39,Private Insurance
+P02151,Male,36,Private Insurance
+P02152,Male,48,Medicare
+P02153,Female,43,Medicaid
+P02154,Female,59,Private Insurance
+P02155,Male,58,Private Insurance
+P02156,Male,40,Private Insurance
+P02157,Male,64,Self-Pay
+P02158,Male,30,Private Insurance
+P02159,Male,83,Medicare
+P02160,Female,83,Medicare
+P02161,Female,33,Self-Pay
+P02162,Female,90,Medicaid
+P02163,Male,45,Medicare
+P02164,Female,52,Medicaid
+P02165,Male,58,Private Insurance
+P02166,Female,48,Self-Pay
+P02167,Female,49,Medicare
+P02168,Male,71,Medicaid
+P02169,Female,89,Private Insurance
+P02170,Male,76,Medicare
+P02171,Female,58,Medicare
+P02172,Male,83,Private Insurance
+P02173,Male,71,Medicaid
+P02174,Female,57,Medicaid
+P02175,Male,45,Private Insurance
+P02176,Female,54,Medicare
+P02177,Male,82,Private Insurance
+P02178,Female,91,Medicare
+P02179,Female,72,Medicare
+P02180,Female,21,Medicare
+P02181,Male,27,Medicare
+P02182,Male,64,Private Insurance
+P02183,Male,31,Private Insurance
+P02184,Male,55,Private Insurance
+P02185,Female,29,Medicare
+P02186,Female,62,Private Insurance
+P02187,Female,34,Medicaid
+P02188,Female,52,Private Insurance
+P02189,Female,83,Private Insurance
+P02190,Female,58,Medicare
+P02191,Male,84,Medicare
+P02192,Female,46,Medicare
+P02193,Female,35,Medicaid
+P02194,Female,37,Self-Pay
+P02195,Male,31,Medicare
+P02196,Male,51,Medicare
+P02197,Male,66,Medicare
+P02198,Female,71,Private Insurance
+P02199,Female,48,Medicare
+P02200,Male,75,Medicare
+P02201,Female,59,Medicare
+P02202,Male,75,Private Insurance
+P02203,Male,47,Medicaid
+P02204,Male,42,Private Insurance
+P02205,Female,80,Medicare
+P02206,Female,36,Medicaid
+P02207,Male,89,Medicare
+P02208,Female,25,Medicare
+P02209,Male,20,Medicaid
+P02210,Female,84,Medicare
+P02211,Female,34,Private Insurance
+P02212,Female,31,Medicare
+P02213,Male,26,Medicare
+P02214,Female,79,Private Insurance
+P02215,Female,38,Medicaid
+P02216,Male,54,Private Insurance
+P02217,Female,28,Private Insurance
+P02218,Male,37,Medicaid
+P02219,Female,52,Private Insurance
+P02220,Male,70,Medicaid
+P02221,Female,64,Medicare
+P02222,Female,69,Medicare
+P02223,Male,25,Medicaid
+P02224,Male,21,Medicare
+P02225,Male,44,Medicare
+P02226,Male,61,Medicare
+P02227,Male,57,Medicare
+P02228,Female,64,Medicare
+P02229,Male,61,Medicare
+P02230,Male,65,Medicare
+P02231,Female,69,Medicare
+P02232,Male,85,Medicaid
+P02233,Female,28,Medicare
+P02234,Female,90,Private Insurance
+P02235,Female,21,Private Insurance
+P02236,Female,90,Medicaid
+P02237,Female,65,Private Insurance
+P02238,Male,43,Medicare
+P02239,Male,56,Medicare
+P02240,Male,75,Private Insurance
+P02241,Female,36,Medicare
+P02242,Male,75,Private Insurance
+P02243,Female,45,Medicaid
+P02244,Female,83,Medicare
+P02245,Female,27,Medicaid
+P02246,Female,75,Medicaid
+P02247,Male,90,Medicare
+P02248,Female,31,Medicare
+P02249,Female,32,Private Insurance
+P02250,Male,50,Medicaid
+P02251,Male,34,Medicare
+P02252,Female,41,Medicare
+P02253,Female,47,Private Insurance
+P02254,Female,79,Medicaid
+P02255,Female,30,Medicaid
+P02256,Female,79,Self-Pay
+P02257,Female,64,Medicare
+P02258,Male,33,Medicaid
+P02259,Male,83,Private Insurance
+P02260,Male,60,Private Insurance
+P02261,Female,25,Medicare
+P02262,Female,20,Medicare
+P02263,Female,29,Private Insurance
+P02264,Male,33,Medicare
+P02265,Female,76,Private Insurance
+P02266,Female,66,Medicare
+P02267,Female,80,Medicare
+P02268,Female,79,Medicare
+P02269,Male,66,Private Insurance
+P02270,Female,68,Private Insurance
+P02271,Male,50,Private Insurance
+P02272,Male,47,Private Insurance
+P02273,Male,76,Medicare
+P02274,Female,32,Medicare
+P02275,Female,40,Private Insurance
+P02276,Female,62,Private Insurance
+P02277,Female,79,Private Insurance
+P02278,Female,88,Private Insurance
+P02279,Female,32,Medicare
+P02280,Male,63,Medicare
+P02281,Male,81,Private Insurance
+P02282,Male,63,Medicare
+P02283,Male,73,Medicare
+P02284,Male,61,Private Insurance
+P02285,Male,46,Medicare
+P02286,Male,79,Private Insurance
+P02287,Female,69,Medicare
+P02288,Male,71,Private Insurance
+P02289,Male,74,Private Insurance
+P02290,Male,83,Medicaid
+P02291,Female,39,Medicaid
+P02292,Male,37,Medicare
+P02293,Male,50,Medicaid
+P02294,Female,89,Medicaid
+P02295,Male,42,Medicaid
+P02296,Male,63,Medicare
+P02297,Male,90,Medicare
+P02298,Male,74,Medicare
+P02299,Male,22,Private Insurance
+P02300,Male,72,Medicare
+P02301,Female,78,Private Insurance
+P02302,Female,25,Private Insurance
+P02303,Female,33,Private Insurance
+P02304,Male,65,Private Insurance
+P02305,Female,78,Medicare
+P02306,Male,32,Private Insurance
+P02307,Male,82,Medicaid
+P02308,Female,39,Private Insurance
+P02309,Male,20,Private Insurance
+P02310,Male,71,Medicare
+P02311,Female,31,Medicare
+P02312,Female,53,Medicaid
+P02313,Female,84,Private Insurance
+P02314,Female,27,Medicare
+P02315,Female,66,Medicare
+P02316,Male,82,Medicare
+P02317,Male,74,Medicaid
+P02318,Male,44,Self-Pay
+P02319,Male,22,Private Insurance
+P02320,Male,88,Medicaid
+P02321,Female,74,Medicare
+P02322,Female,32,Medicare
+P02323,Female,47,Medicaid
+P02324,Male,37,Private Insurance
+P02325,Female,54,Medicare
+P02326,Female,20,Medicaid
+P02327,Female,90,Private Insurance
+P02328,Male,58,Private Insurance
+P02329,Female,56,Medicare
+P02330,Male,43,Medicare
+P02331,Male,19,Medicare
+P02332,Male,40,Private Insurance
+P02333,Female,40,Self-Pay
+P02334,Female,33,Medicare
+P02335,Male,26,Medicare
+P02336,Male,30,Private Insurance
+P02337,Male,45,Private Insurance
+P02338,Male,44,Self-Pay
+P02339,Male,68,Medicare
+P02340,Male,81,Medicare
+P02341,Female,69,Medicare
+P02342,Male,55,Medicare
+P02343,Male,82,Medicaid
+P02344,Male,35,Medicare
+P02345,Female,80,Medicare
+P02346,Female,68,Private Insurance
+P02347,Female,26,Medicare
+P02348,Male,30,Private Insurance
+P02349,Female,57,Medicare
+P02350,Male,72,Private Insurance
+P02351,Female,60,Medicare
+P02352,Female,61,Private Insurance
+P02353,Female,85,Medicare
+P02354,Female,50,Medicaid
+P02355,Female,41,Private Insurance
+P02356,Male,53,Medicare
+P02357,Female,27,Medicare
+P02358,Male,37,Private Insurance
+P02359,Female,29,Private Insurance
+P02360,Male,79,Medicare
+P02361,Male,35,Medicare
+P02362,Male,80,Medicare
+P02363,Male,42,Medicare
+P02364,Male,29,Self-Pay
+P02365,Female,38,Medicaid
+P02366,Male,42,Medicaid
+P02367,Male,28,Self-Pay
+P02368,Female,81,Medicaid
+P02369,Male,90,Private Insurance
+P02370,Female,67,Medicare
+P02371,Female,79,Medicare
+P02372,Female,66,Medicaid
+P02373,Female,31,Medicare
+P02374,Male,18,Medicare
+P02375,Female,42,Medicare
+P02376,Male,76,Medicare
+P02377,Male,89,Medicaid
+P02378,Female,86,Medicaid
+P02379,Male,22,Medicare
+P02380,Female,36,Medicare
+P02381,Female,40,Private Insurance
+P02382,Female,26,Medicare
+P02383,Female,67,Medicaid
+P02384,Male,33,Private Insurance
+P02385,Male,50,Medicare
+P02386,Female,19,Private Insurance
+P02387,Male,31,Private Insurance
+P02388,Female,18,Medicare
+P02389,Female,75,Medicare
+P02390,Female,33,Self-Pay
+P02391,Male,64,Medicare
+P02392,Male,61,Private Insurance
+P02393,Male,31,Medicaid
+P02394,Male,41,Medicare
+P02395,Female,72,Medicare
+P02396,Male,32,Medicaid
+P02397,Male,89,Medicare
+P02398,Male,51,Private Insurance
+P02399,Female,19,Private Insurance
+P02400,Female,44,Private Insurance
+P02401,Male,91,Medicare
+P02402,Male,89,Private Insurance
+P02403,Male,40,Private Insurance
+P02404,Male,85,Private Insurance
+P02405,Female,31,Medicaid
+P02406,Female,80,Private Insurance
+P02407,Male,82,Medicaid
+P02408,Male,85,Medicare
+P02409,Female,80,Self-Pay
+P02410,Male,81,Medicare
+P02411,Female,49,Medicare
+P02412,Male,30,Private Insurance
+P02413,Male,83,Medicare
+P02414,Male,36,Private Insurance
+P02415,Female,41,Private Insurance
+P02416,Female,28,Medicare
+P02417,Male,76,Medicaid
+P02418,Male,32,Private Insurance
+P02419,Male,27,Medicaid
+P02420,Male,58,Private Insurance
+P02421,Male,44,Private Insurance
+P02422,Male,77,Medicare
+P02423,Female,90,Medicare
+P02424,Male,69,Private Insurance
+P02425,Male,45,Medicaid
+P02426,Female,82,Medicare
+P02427,Male,34,Private Insurance
+P02428,Female,61,Private Insurance
+P02429,Male,27,Private Insurance
+P02430,Female,80,Medicaid
+P02431,Female,64,Private Insurance
+P02432,Female,55,Private Insurance
+P02433,Female,87,Private Insurance
+P02434,Male,70,Self-Pay
+P02435,Female,61,Medicaid
+P02436,Male,91,Private Insurance
+P02437,Male,71,Self-Pay
+P02438,Male,37,Medicare
+P02439,Female,48,Medicare
+P02440,Male,24,Private Insurance
+P02441,Female,75,Medicare
+P02442,Female,27,Medicare
+P02443,Female,27,Medicare
+P02444,Female,56,Medicare
+P02445,Male,45,Medicare
+P02446,Male,47,Medicare
+P02447,Male,54,Self-Pay
+P02448,Male,84,Private Insurance
+P02449,Male,60,Private Insurance
+P02450,Male,69,Medicare
+P02451,Male,73,Private Insurance
+P02452,Female,85,Private Insurance
+P02453,Female,26,Private Insurance
+P02454,Male,40,Medicare
+P02455,Female,80,Medicaid
+P02456,Male,78,Private Insurance
+P02457,Male,57,Private Insurance
+P02458,Female,61,Private Insurance
+P02459,Male,41,Medicaid
+P02460,Male,68,Medicaid
+P02461,Female,75,Private Insurance
+P02462,Female,50,Medicare
+P02463,Female,33,Private Insurance
+P02464,Female,39,Self-Pay
+P02465,Female,74,Private Insurance
+P02466,Male,79,Medicare
+P02467,Male,88,Medicare
+P02468,Male,89,Private Insurance
+P02469,Male,87,Private Insurance
+P02470,Female,47,Medicaid
+P02471,Male,40,Medicaid
+P02472,Female,49,Medicare
+P02473,Female,74,Private Insurance
+P02474,Female,26,Private Insurance
+P02475,Female,48,Self-Pay
+P02476,Female,88,Medicare
+P02477,Male,26,Private Insurance
+P02478,Female,30,Medicaid
+P02479,Male,75,Medicaid
+P02480,Female,20,Private Insurance
+P02481,Male,52,Medicare
+P02482,Female,38,Medicare
+P02483,Female,81,Private Insurance
+P02484,Male,69,Medicaid
+P02485,Male,51,Medicare
+P02486,Female,52,Medicaid
+P02487,Male,32,Medicaid
+P02488,Female,23,Private Insurance
+P02489,Female,49,Medicare
+P02490,Male,69,Private Insurance
+P02491,Male,45,Medicare
+P02492,Male,81,Medicare
+P02493,Female,36,Medicare
+P02494,Male,32,Private Insurance
+P02495,Female,23,Medicare
+P02496,Female,90,Private Insurance
+P02497,Female,55,Medicaid
+P02498,Female,43,Self-Pay
+P02499,Female,68,Private Insurance
+P02500,Male,90,Private Insurance
+P02501,Female,70,Private Insurance
+P02502,Female,73,Private Insurance
+P02503,Female,76,Private Insurance
+P02504,Female,87,Medicare
+P02505,Male,75,Medicare
+P02506,Male,30,Private Insurance
+P02507,Female,60,Medicaid
+P02508,Male,68,Medicaid
+P02509,Female,36,Medicaid
+P02510,Female,38,Medicare
+P02511,Male,41,Private Insurance
+P02512,Female,43,Medicare
+P02513,Male,62,Self-Pay
+P02514,Female,45,Private Insurance
+P02515,Female,46,Private Insurance
+P02516,Female,34,Medicare
+P02517,Male,85,Medicaid
+P02518,Male,61,Self-Pay
+P02519,Female,78,Private Insurance
+P02520,Female,85,Private Insurance
+P02521,Female,91,Medicare
+P02522,Male,42,Medicaid
+P02523,Male,84,Private Insurance
+P02524,Male,19,Medicare
+P02525,Female,66,Private Insurance
+P02526,Male,87,Private Insurance
+P02527,Male,43,Private Insurance
+P02528,Female,89,Medicaid
+P02529,Male,44,Medicaid
+P02530,Female,35,Self-Pay
+P02531,Female,71,Private Insurance
+P02532,Female,18,Private Insurance
+P02533,Male,78,Private Insurance
+P02534,Male,20,Private Insurance
+P02535,Female,85,Private Insurance
+P02536,Female,58,Medicaid
+P02537,Female,54,Medicaid
+P02538,Male,68,Medicaid
+P02539,Female,32,Medicare
+P02540,Female,25,Medicare
+P02541,Female,55,Medicare
+P02542,Female,73,Private Insurance
+P02543,Female,64,Medicare
+P02544,Female,27,Medicare
+P02545,Male,66,Medicare
+P02546,Male,58,Private Insurance
+P02547,Male,47,Medicare
+P02548,Male,22,Medicaid
+P02549,Male,88,Medicare
+P02550,Male,48,Private Insurance
+P02551,Male,69,Self-Pay
+P02552,Male,40,Self-Pay
+P02553,Female,65,Medicaid
+P02554,Female,57,Private Insurance
+P02555,Male,23,Medicaid
+P02556,Female,55,Medicare
+P02557,Female,58,Medicaid
+P02558,Male,44,Medicare
+P02559,Male,86,Private Insurance
+P02560,Female,74,Medicare
+P02561,Female,34,Medicaid
+P02562,Female,88,Medicaid
+P02563,Male,64,Medicaid
+P02564,Male,30,Private Insurance
+P02565,Male,28,Private Insurance
+P02566,Male,41,Private Insurance
+P02567,Male,90,Medicaid
+P02568,Male,21,Medicare
+P02569,Female,63,Medicare
+P02570,Female,35,Self-Pay
+P02571,Male,60,Self-Pay
+P02572,Female,50,Private Insurance
+P02573,Male,27,Medicare
+P02574,Male,90,Medicare
+P02575,Male,76,Medicare
+P02576,Female,48,Private Insurance
+P02577,Female,45,Private Insurance
+P02578,Female,77,Private Insurance
+P02579,Male,20,Private Insurance
+P02580,Female,72,Medicare
+P02581,Male,31,Medicare
+P02582,Female,75,Medicare
+P02583,Female,32,Medicaid
+P02584,Male,19,Medicare
+P02585,Female,41,Private Insurance
+P02586,Female,81,Private Insurance
+P02587,Male,88,Medicare
+P02588,Female,41,Medicare
+P02589,Male,44,Medicare
+P02590,Female,54,Private Insurance
+P02591,Female,56,Medicaid
+P02592,Female,80,Medicare
+P02593,Female,43,Private Insurance
+P02594,Female,82,Medicaid
+P02595,Male,21,Medicaid
+P02596,Female,46,Private Insurance
+P02597,Male,18,Private Insurance
+P02598,Female,67,Private Insurance
+P02599,Male,28,Medicaid
+P02600,Male,91,Medicare
+P02601,Female,76,Private Insurance
+P02602,Male,79,Medicaid
+P02603,Female,53,Private Insurance
+P02604,Male,73,Private Insurance
+P02605,Male,38,Private Insurance
+P02606,Female,30,Medicare
+P02607,Male,26,Medicare
+P02608,Male,28,Medicare
+P02609,Female,87,Private Insurance
+P02610,Male,18,Medicare
+P02611,Female,87,Medicare
+P02612,Male,73,Medicare
+P02613,Male,48,Medicare
+P02614,Female,54,Medicare
+P02615,Male,64,Medicare
+P02616,Male,64,Private Insurance
+P02617,Male,86,Medicare
+P02618,Male,75,Medicare
+P02619,Female,53,Private Insurance
+P02620,Male,49,Private Insurance
+P02621,Female,81,Medicare
+P02622,Female,88,Medicare
+P02623,Male,59,Private Insurance
+P02624,Female,65,Medicare
+P02625,Male,91,Medicare
+P02626,Female,47,Medicare
+P02627,Male,38,Medicare
+P02628,Female,77,Medicaid
+P02629,Female,30,Private Insurance
+P02630,Male,18,Private Insurance
+P02631,Female,82,Medicaid
+P02632,Female,50,Medicaid
+P02633,Male,55,Private Insurance
+P02634,Male,42,Medicaid
+P02635,Female,43,Medicare
+P02636,Female,76,Private Insurance
+P02637,Female,50,Private Insurance
+P02638,Female,58,Medicare
+P02639,Female,47,Private Insurance
+P02640,Female,74,Medicaid
+P02641,Male,66,Medicare
+P02642,Male,65,Medicare
+P02643,Female,89,Private Insurance
+P02644,Female,66,Private Insurance
+P02645,Male,64,Private Insurance
+P02646,Male,73,Medicare
+P02647,Female,82,Medicare
+P02648,Female,29,Medicaid
+P02649,Male,86,Medicare
+P02650,Male,23,Medicaid
+P02651,Male,82,Self-Pay
+P02652,Male,42,Private Insurance
+P02653,Male,18,Medicare
+P02654,Male,49,Medicare
+P02655,Female,20,Medicare
+P02656,Male,66,Private Insurance
+P02657,Female,36,Private Insurance
+P02658,Female,77,Private Insurance
+P02659,Male,46,Medicare
+P02660,Female,67,Medicare
+P02661,Male,19,Self-Pay
+P02662,Female,90,Self-Pay
+P02663,Male,73,Medicaid
+P02664,Female,34,Medicare
+P02665,Female,77,Medicaid
+P02666,Male,53,Private Insurance
+P02667,Male,78,Private Insurance
+P02668,Female,34,Private Insurance
+P02669,Female,66,Medicare
+P02670,Male,77,Medicare
+P02671,Female,37,Medicare
+P02672,Male,67,Private Insurance
+P02673,Female,20,Medicaid
+P02674,Male,60,Private Insurance
+P02675,Female,74,Medicare
+P02676,Male,67,Private Insurance
+P02677,Male,85,Private Insurance
+P02678,Male,67,Medicare
+P02679,Male,54,Private Insurance
+P02680,Female,63,Medicare
+P02681,Male,59,Medicare
+P02682,Female,32,Medicare
+P02683,Male,50,Private Insurance
+P02684,Male,28,Private Insurance
+P02685,Male,37,Medicare
+P02686,Male,41,Private Insurance
+P02687,Male,81,Private Insurance
+P02688,Male,82,Private Insurance
+P02689,Female,90,Medicare
+P02690,Male,34,Medicaid
+P02691,Female,78,Private Insurance
+P02692,Female,32,Medicare
+P02693,Male,68,Medicare
+P02694,Male,44,Private Insurance
+P02695,Female,91,Medicare
+P02696,Female,78,Self-Pay
+P02697,Female,75,Medicare
+P02698,Male,48,Self-Pay
+P02699,Female,29,Medicare
+P02700,Female,63,Medicare
+P02701,Female,48,Medicare
+P02702,Female,49,Private Insurance
+P02703,Male,49,Private Insurance
+P02704,Male,70,Medicare
+P02705,Female,78,Medicare
+P02706,Female,63,Private Insurance
+P02707,Male,91,Medicaid
+P02708,Male,24,Private Insurance
+P02709,Male,21,Medicare
+P02710,Male,69,Private Insurance
+P02711,Female,48,Private Insurance
+P02712,Female,53,Self-Pay
+P02713,Male,71,Private Insurance
+P02714,Male,71,Medicare
+P02715,Male,34,Medicare
+P02716,Male,47,Private Insurance
+P02717,Female,39,Medicaid
+P02718,Female,60,Private Insurance
+P02719,Female,44,Private Insurance
+P02720,Male,54,Medicaid
+P02721,Female,63,Medicare
+P02722,Female,52,Medicare
+P02723,Female,21,Medicare
+P02724,Male,43,Medicare
+P02725,Male,36,Medicaid
+P02726,Male,62,Medicare
+P02727,Male,43,Medicare
+P02728,Male,39,Medicare
+P02729,Male,75,Medicare
+P02730,Male,80,Medicare
+P02731,Female,45,Private Insurance
+P02732,Male,82,Medicare
+P02733,Male,61,Medicaid
+P02734,Female,60,Private Insurance
+P02735,Female,54,Self-Pay
+P02736,Female,83,Medicare
+P02737,Female,34,Medicare
+P02738,Female,57,Medicare
+P02739,Female,55,Medicaid
+P02740,Male,78,Private Insurance
+P02741,Male,26,Private Insurance
+P02742,Male,78,Private Insurance
+P02743,Male,33,Medicaid
+P02744,Male,19,Private Insurance
+P02745,Female,89,Medicare
+P02746,Female,60,Medicaid
+P02747,Female,59,Medicaid
+P02748,Male,74,Medicare
+P02749,Female,84,Medicare
+P02750,Female,47,Private Insurance
+P02751,Male,30,Medicare
+P02752,Female,36,Medicare
+P02753,Male,24,Medicaid
+P02754,Male,26,Medicare
+P02755,Female,71,Private Insurance
+P02756,Male,78,Private Insurance
+P02757,Male,19,Private Insurance
+P02758,Female,67,Medicare
+P02759,Female,48,Private Insurance
+P02760,Male,50,Private Insurance
+P02761,Male,28,Medicare
+P02762,Male,50,Medicare
+P02763,Female,24,Private Insurance
+P02764,Male,48,Medicare
+P02765,Male,65,Medicare
+P02766,Female,64,Medicare
+P02767,Female,70,Medicare
+P02768,Male,36,Medicare
+P02769,Female,23,Medicaid
+P02770,Female,66,Private Insurance
+P02771,Male,90,Medicare
+P02772,Male,67,Private Insurance
+P02773,Female,29,Medicaid
+P02774,Male,40,Self-Pay
+P02775,Female,71,Self-Pay
+P02776,Male,86,Private Insurance
+P02777,Male,76,Private Insurance
+P02778,Male,53,Private Insurance
+P02779,Male,20,Private Insurance
+P02780,Male,75,Medicare
+P02781,Male,72,Medicare
+P02782,Female,74,Private Insurance
+P02783,Female,34,Medicaid
+P02784,Female,56,Private Insurance
+P02785,Female,85,Private Insurance
+P02786,Male,72,Medicare
+P02787,Female,62,Private Insurance
+P02788,Male,18,Medicare
+P02789,Female,38,Medicare
+P02790,Female,38,Medicaid
+P02791,Female,69,Medicare
+P02792,Female,60,Medicaid
+P02793,Female,69,Medicaid
+P02794,Male,84,Medicare
+P02795,Male,61,Private Insurance
+P02796,Female,49,Private Insurance
+P02797,Male,27,Medicare
+P02798,Female,81,Medicare
+P02799,Female,86,Private Insurance
+P02800,Male,85,Private Insurance
+P02801,Female,45,Medicare
+P02802,Female,70,Medicare
+P02803,Female,68,Private Insurance
+P02804,Female,70,Private Insurance
+P02805,Female,21,Medicare
+P02806,Female,34,Medicaid
+P02807,Female,84,Medicaid
+P02808,Male,91,Private Insurance
+P02809,Male,64,Medicare
+P02810,Female,73,Medicaid
+P02811,Male,40,Medicare
+P02812,Female,35,Self-Pay
+P02813,Female,18,Private Insurance
+P02814,Male,52,Private Insurance
+P02815,Female,81,Private Insurance
+P02816,Female,75,Medicaid
+P02817,Female,76,Private Insurance
+P02818,Male,18,Medicare
+P02819,Male,20,Private Insurance
+P02820,Male,84,Medicare
+P02821,Female,54,Medicare
+P02822,Male,46,Medicaid
+P02823,Female,50,Private Insurance
+P02824,Male,78,Private Insurance
+P02825,Male,21,Medicaid
+P02826,Female,31,Medicare
+P02827,Female,50,Private Insurance
+P02828,Male,39,Medicare
+P02829,Male,65,Private Insurance
+P02830,Male,20,Private Insurance
+P02831,Male,40,Medicare
+P02832,Female,85,Medicare
+P02833,Male,38,Medicaid
+P02834,Male,60,Medicare
+P02835,Male,43,Medicare
+P02836,Female,58,Medicare
+P02837,Female,55,Medicare
+P02838,Male,28,Private Insurance
+P02839,Female,46,Private Insurance
+P02840,Male,77,Medicare
+P02841,Male,84,Medicaid
+P02842,Female,82,Medicare
+P02843,Female,78,Medicaid
+P02844,Female,36,Private Insurance
+P02845,Female,63,Medicaid
+P02846,Male,66,Private Insurance
+P02847,Female,39,Medicaid
+P02848,Male,74,Private Insurance
+P02849,Female,31,Medicaid
+P02850,Male,61,Private Insurance
+P02851,Female,33,Private Insurance
+P02852,Male,29,Private Insurance
+P02853,Male,72,Private Insurance
+P02854,Female,68,Medicare
+P02855,Male,56,Private Insurance
+P02856,Female,50,Medicare
+P02857,Male,50,Medicare
+P02858,Male,46,Medicare
+P02859,Male,86,Self-Pay
+P02860,Male,87,Private Insurance
+P02861,Female,48,Private Insurance
+P02862,Male,48,Private Insurance
+P02863,Female,63,Medicaid
+P02864,Female,69,Private Insurance
+P02865,Male,27,Self-Pay
+P02866,Female,91,Medicaid
+P02867,Female,58,Medicare
+P02868,Female,20,Private Insurance
+P02869,Male,76,Self-Pay
+P02870,Male,69,Private Insurance
+P02871,Female,51,Private Insurance
+P02872,Female,66,Private Insurance
+P02873,Female,45,Private Insurance
+P02874,Male,30,Private Insurance
+P02875,Female,86,Private Insurance
+P02876,Male,84,Medicare
+P02877,Female,78,Private Insurance
+P02878,Male,77,Medicaid
+P02879,Female,88,Private Insurance
+P02880,Male,41,Medicaid
+P02881,Male,80,Medicare
+P02882,Female,78,Medicare
+P02883,Male,40,Private Insurance
+P02884,Male,47,Medicaid
+P02885,Male,77,Medicare
+P02886,Female,35,Medicare
+P02887,Female,73,Medicaid
+P02888,Male,70,Medicare
+P02889,Female,24,Medicare
+P02890,Female,86,Medicare
+P02891,Male,89,Medicaid
+P02892,Female,69,Medicaid
+P02893,Female,21,Medicare
+P02894,Female,51,Private Insurance
+P02895,Male,86,Medicare
+P02896,Female,50,Medicare
+P02897,Female,86,Medicare
+P02898,Male,55,Medicare
+P02899,Male,43,Medicare
+P02900,Male,18,Medicare
+P02901,Male,21,Private Insurance
+P02902,Female,56,Private Insurance
+P02903,Male,71,Medicaid
+P02904,Male,50,Private Insurance
+P02905,Female,50,Medicare
+P02906,Male,89,Private Insurance
+P02907,Female,37,Medicare
+P02908,Male,33,Private Insurance
+P02909,Male,38,Medicare
+P02910,Male,62,Private Insurance
+P02911,Male,79,Medicaid
+P02912,Male,48,Medicare
+P02913,Female,59,Private Insurance
+P02914,Female,29,Medicare
+P02915,Male,82,Private Insurance
+P02916,Female,90,Private Insurance
+P02917,Female,20,Medicare
+P02918,Female,26,Medicare
+P02919,Male,68,Medicare
+P02920,Male,33,Private Insurance
+P02921,Male,20,Medicare
+P02922,Female,41,Medicaid
+P02923,Female,90,Self-Pay
+P02924,Male,30,Medicare
+P02925,Male,19,Self-Pay
+P02926,Female,88,Private Insurance
+P02927,Female,38,Medicare
+P02928,Female,36,Medicaid
+P02929,Female,64,Private Insurance
+P02930,Male,39,Medicaid
+P02931,Female,50,Medicare
+P02932,Female,49,Medicare
+P02933,Male,81,Private Insurance
+P02934,Female,56,Private Insurance
+P02935,Female,89,Medicaid
+P02936,Male,59,Medicare
+P02937,Female,26,Private Insurance
+P02938,Female,42,Self-Pay
+P02939,Female,19,Medicare
+P02940,Male,36,Medicare
+P02941,Male,37,Private Insurance
+P02942,Female,87,Private Insurance
+P02943,Male,34,Private Insurance
+P02944,Female,85,Private Insurance
+P02945,Female,20,Private Insurance
+P02946,Male,68,Medicare
+P02947,Female,43,Private Insurance
+P02948,Female,73,Private Insurance
+P02949,Male,81,Self-Pay
+P02950,Female,25,Medicare
+P02951,Female,54,Medicaid
+P02952,Female,44,Private Insurance
+P02953,Female,62,Medicare
+P02954,Male,21,Medicare
+P02955,Female,54,Private Insurance
+P02956,Female,88,Medicare
+P02957,Female,50,Private Insurance
+P02958,Female,48,Private Insurance
+P02959,Male,72,Medicare
+P02960,Female,29,Self-Pay
+P02961,Male,28,Private Insurance
+P02962,Male,89,Medicaid
+P02963,Male,49,Medicaid
+P02964,Female,74,Self-Pay
+P02965,Female,55,Medicare
+P02966,Female,77,Medicare
+P02967,Female,36,Medicare
+P02968,Female,73,Medicare
+P02969,Female,31,Medicaid
+P02970,Female,50,Self-Pay
+P02971,Male,27,Private Insurance
+P02972,Male,81,Medicare
+P02973,Female,81,Medicaid
+P02974,Female,79,Private Insurance
+P02975,Male,85,Medicare
+P02976,Male,60,Private Insurance
+P02977,Female,76,Private Insurance
+P02978,Male,69,Private Insurance
+P02979,Female,36,Medicare
+P02980,Female,38,Medicaid
+P02981,Male,39,Medicare
+P02982,Male,26,Medicare
+P02983,Female,26,Medicaid
+P02984,Female,90,Private Insurance
+P02985,Female,44,Private Insurance
+P02986,Female,34,Self-Pay
+P02987,Male,61,Private Insurance
+P02988,Female,62,Medicare
+P02989,Female,25,Private Insurance
+P02990,Female,35,Medicare
+P02991,Male,50,Medicare
+P02992,Female,18,Medicaid
+P02993,Female,23,Private Insurance
+P02994,Male,58,Private Insurance
+P02995,Male,72,Medicare
+P02996,Female,22,Medicare
+P02997,Male,76,Medicare
+P02998,Male,35,Medicare
+P02999,Male,66,Medicare
+P03000,Female,82,Private Insurance
+P03001,Female,71,Private Insurance
+P03002,Female,78,Medicare
+P03003,Male,25,Private Insurance
+P03004,Female,20,Medicare
+P03005,Female,42,Self-Pay
+P03006,Female,86,Medicare
+P03007,Female,72,Private Insurance
+P03008,Male,57,Private Insurance
+P03009,Female,67,Private Insurance
+P03010,Male,50,Medicare
+P03011,Female,35,Private Insurance
+P03012,Male,74,Medicare
+P03013,Male,33,Medicare
+P03014,Male,55,Medicare
+P03015,Female,58,Private Insurance
+P03016,Male,24,Private Insurance
+P03017,Female,70,Medicare
+P03018,Male,80,Medicaid
+P03019,Male,49,Self-Pay
+P03020,Female,55,Medicaid
+P03021,Male,39,Medicare
+P03022,Male,33,Medicaid
+P03023,Female,69,Private Insurance
+P03024,Male,46,Medicaid
+P03025,Male,33,Private Insurance
+P03026,Male,34,Medicaid
+P03027,Female,81,Medicare
+P03028,Female,30,Medicare
+P03029,Female,89,Medicare
+P03030,Female,73,Medicaid
+P03031,Male,22,Medicare
+P03032,Male,29,Private Insurance
+P03033,Female,58,Medicaid
+P03034,Male,20,Private Insurance
+P03035,Male,50,Self-Pay
+P03036,Male,67,Private Insurance
+P03037,Male,73,Self-Pay
+P03038,Female,26,Medicaid
+P03039,Male,67,Medicare
+P03040,Female,46,Private Insurance
+P03041,Male,56,Private Insurance
+P03042,Female,62,Private Insurance
+P03043,Male,34,Private Insurance
+P03044,Male,73,Private Insurance
+P03045,Female,63,Medicare
+P03046,Female,84,Private Insurance
+P03047,Male,86,Medicare
+P03048,Male,31,Medicare
+P03049,Male,84,Medicaid
+P03050,Male,40,Medicaid
+P03051,Male,78,Medicare
+P03052,Male,40,Private Insurance
+P03053,Male,44,Private Insurance
+P03054,Male,71,Private Insurance
+P03055,Female,27,Medicaid
+P03056,Female,33,Self-Pay
+P03057,Female,58,Medicare
+P03058,Male,72,Private Insurance
+P03059,Male,78,Medicare
+P03060,Female,66,Medicare
+P03061,Male,90,Medicaid
+P03062,Male,69,Private Insurance
+P03063,Female,19,Medicare
+P03064,Female,67,Medicare
+P03065,Female,60,Medicaid
+P03066,Male,25,Medicaid
+P03067,Male,76,Private Insurance
+P03068,Female,82,Medicare
+P03069,Male,29,Medicaid
+P03070,Female,21,Medicare
+P03071,Female,58,Medicare
+P03072,Female,24,Medicaid
+P03073,Male,86,Private Insurance
+P03074,Male,86,Medicare
+P03075,Female,47,Medicare
+P03076,Female,90,Medicaid
+P03077,Female,23,Medicare
+P03078,Male,36,Medicare
+P03079,Male,83,Medicare
+P03080,Female,27,Medicare
+P03081,Female,33,Medicare
+P03082,Female,54,Private Insurance
+P03083,Male,49,Private Insurance
+P03084,Female,64,Private Insurance
+P03085,Female,89,Medicaid
+P03086,Female,60,Private Insurance
+P03087,Male,53,Private Insurance
+P03088,Male,43,Private Insurance
+P03089,Female,27,Medicare
+P03090,Male,48,Medicaid
+P03091,Male,46,Medicaid
+P03092,Female,22,Medicaid
+P03093,Male,18,Medicaid
+P03094,Female,20,Private Insurance
+P03095,Male,84,Private Insurance
+P03096,Female,88,Medicare
+P03097,Female,52,Medicare
+P03098,Male,32,Medicaid
+P03099,Male,84,Medicare
+P03100,Male,47,Medicare
+P03101,Male,60,Medicare
+P03102,Female,77,Medicare
+P03103,Female,57,Self-Pay
+P03104,Male,82,Medicare
+P03105,Male,46,Medicare
+P03106,Male,91,Medicare
+P03107,Female,36,Medicaid
+P03108,Male,20,Medicare
+P03109,Female,53,Private Insurance
+P03110,Female,60,Medicare
+P03111,Female,32,Medicaid
+P03112,Male,58,Private Insurance
+P03113,Female,53,Medicare
+P03114,Male,50,Medicare
+P03115,Male,22,Medicaid
+P03116,Female,31,Private Insurance
+P03117,Female,85,Medicaid
+P03118,Male,64,Medicaid
+P03119,Male,71,Private Insurance
+P03120,Male,21,Medicaid
+P03121,Male,26,Medicare
+P03122,Male,70,Medicare
+P03123,Male,77,Private Insurance
+P03124,Male,63,Private Insurance
+P03125,Female,71,Self-Pay
+P03126,Female,91,Private Insurance
+P03127,Female,54,Private Insurance
+P03128,Male,40,Private Insurance
+P03129,Female,44,Private Insurance
+P03130,Female,87,Medicaid
+P03131,Female,83,Medicaid
+P03132,Female,78,Medicare
+P03133,Female,68,Medicare
+P03134,Female,67,Private Insurance
+P03135,Male,36,Medicaid
+P03136,Female,18,Medicare
+P03137,Female,57,Medicare
+P03138,Female,49,Private Insurance
+P03139,Female,39,Private Insurance
+P03140,Male,83,Medicaid
+P03141,Male,57,Medicare
+P03142,Female,55,Medicaid
+P03143,Female,65,Medicare
+P03144,Female,72,Medicaid
+P03145,Male,72,Private Insurance
+P03146,Male,68,Medicare
+P03147,Female,77,Medicare
+P03148,Female,25,Medicare
+P03149,Female,85,Medicaid
+P03150,Male,89,Medicare
+P03151,Female,26,Medicaid
+P03152,Male,19,Medicaid
+P03153,Female,87,Private Insurance
+P03154,Male,76,Medicaid
+P03155,Male,36,Medicare
+P03156,Female,45,Medicaid
+P03157,Female,89,Private Insurance
+P03158,Male,31,Medicare
+P03159,Female,41,Private Insurance
+P03160,Male,61,Private Insurance
+P03161,Male,73,Medicare
+P03162,Male,68,Private Insurance
+P03163,Male,49,Private Insurance
+P03164,Female,67,Medicaid
+P03165,Male,58,Private Insurance
+P03166,Female,83,Medicare
+P03167,Female,42,Medicare
+P03168,Male,78,Private Insurance
+P03169,Female,83,Private Insurance
+P03170,Male,59,Private Insurance
+P03171,Female,82,Medicare
+P03172,Male,53,Medicaid
+P03173,Male,26,Medicare
+P03174,Male,53,Medicare
+P03175,Male,55,Medicare
+P03176,Male,50,Medicare
+P03177,Female,59,Medicare
+P03178,Female,78,Medicare
+P03179,Female,63,Medicare
+P03180,Female,78,Self-Pay
+P03181,Male,35,Private Insurance
+P03182,Male,87,Medicare
+P03183,Male,32,Private Insurance
+P03184,Male,65,Private Insurance
+P03185,Female,89,Private Insurance
+P03186,Female,30,Medicare
+P03187,Male,60,Medicaid
+P03188,Male,77,Private Insurance
+P03189,Female,74,Medicare
+P03190,Female,88,Private Insurance
+P03191,Male,34,Private Insurance
+P03192,Female,67,Self-Pay
+P03193,Female,49,Medicare
+P03194,Male,39,Medicare
+P03195,Male,72,Medicare
+P03196,Female,74,Self-Pay
+P03197,Female,30,Medicare
+P03198,Female,64,Medicaid
+P03199,Male,79,Medicare
+P03200,Male,71,Medicare
+P03201,Female,46,Medicare
+P03202,Female,39,Medicaid
+P03203,Male,82,Private Insurance
+P03204,Female,46,Medicare
+P03205,Female,65,Private Insurance
+P03206,Female,22,Private Insurance
+P03207,Female,52,Private Insurance
+P03208,Female,91,Private Insurance
+P03209,Male,88,Medicare
+P03210,Female,63,Medicare
+P03211,Male,52,Private Insurance
+P03212,Female,62,Medicare
+P03213,Male,30,Medicaid
+P03214,Female,27,Medicare
+P03215,Male,83,Private Insurance
+P03216,Male,87,Medicare
+P03217,Male,89,Medicaid
+P03218,Male,42,Medicare
+P03219,Female,61,Self-Pay
+P03220,Female,77,Medicare
+P03221,Female,64,Private Insurance
+P03222,Male,57,Medicaid
+P03223,Male,24,Private Insurance
+P03224,Male,63,Medicare
+P03225,Male,40,Private Insurance
+P03226,Female,63,Medicare
+P03227,Male,30,Medicare
+P03228,Male,38,Private Insurance
+P03229,Male,18,Private Insurance
+P03230,Male,36,Private Insurance
+P03231,Female,77,Private Insurance
+P03232,Female,50,Medicare
+P03233,Male,21,Private Insurance
+P03234,Male,20,Medicare
+P03235,Male,69,Private Insurance
+P03236,Male,45,Medicaid
+P03237,Male,87,Medicaid
+P03238,Female,87,Medicare
+P03239,Female,72,Medicaid
+P03240,Female,74,Medicare
+P03241,Male,33,Medicare
+P03242,Male,41,Medicare
+P03243,Female,86,Medicaid
+P03244,Female,58,Medicare
+P03245,Female,64,Medicare
+P03246,Male,86,Medicare
+P03247,Female,48,Medicare
+P03248,Male,47,Private Insurance
+P03249,Female,35,Private Insurance
+P03250,Female,61,Medicare
+P03251,Female,44,Private Insurance
+P03252,Male,43,Private Insurance
+P03253,Female,77,Medicaid
+P03254,Male,35,Private Insurance
+P03255,Male,73,Medicare
+P03256,Male,48,Medicaid
+P03257,Female,76,Medicare
+P03258,Male,19,Medicare
+P03259,Male,56,Private Insurance
+P03260,Female,78,Medicaid
+P03261,Male,80,Medicare
+P03262,Female,35,Medicaid
+P03263,Male,34,Private Insurance
+P03264,Male,56,Private Insurance
+P03265,Female,88,Private Insurance
+P03266,Male,71,Medicaid
+P03267,Male,52,Medicaid
+P03268,Female,28,Medicare
+P03269,Female,78,Medicare
+P03270,Female,61,Medicare
+P03271,Male,85,Medicaid
+P03272,Male,42,Medicaid
+P03273,Female,65,Private Insurance
+P03274,Female,49,Private Insurance
+P03275,Female,21,Medicare
+P03276,Female,55,Medicare
+P03277,Female,80,Medicare
+P03278,Male,64,Private Insurance
+P03279,Male,18,Private Insurance
+P03280,Female,20,Self-Pay
+P03281,Male,79,Medicaid
+P03282,Male,81,Private Insurance
+P03283,Female,34,Medicaid
+P03284,Female,79,Private Insurance
+P03285,Male,52,Private Insurance
+P03286,Male,30,Private Insurance
+P03287,Male,52,Medicaid
+P03288,Female,60,Private Insurance
+P03289,Female,19,Medicare
+P03290,Male,73,Medicare
+P03291,Male,68,Medicare
+P03292,Female,71,Medicaid
+P03293,Male,33,Medicaid
+P03294,Female,35,Medicare
+P03295,Female,24,Medicare
+P03296,Male,62,Medicare
+P03297,Female,53,Medicaid
+P03298,Male,58,Medicare
+P03299,Male,59,Medicare
+P03300,Female,24,Medicare
+P03301,Male,32,Medicare
+P03302,Female,77,Private Insurance
+P03303,Female,57,Medicare
+P03304,Male,54,Private Insurance
+P03305,Male,83,Medicaid
+P03306,Male,72,Self-Pay
+P03307,Male,73,Medicare
+P03308,Male,61,Medicare
+P03309,Male,74,Medicare
+P03310,Male,23,Medicare
+P03311,Female,49,Private Insurance
+P03312,Female,91,Medicare
+P03313,Female,35,Medicare
+P03314,Male,85,Private Insurance
+P03315,Male,90,Medicaid
+P03316,Female,24,Medicare
+P03317,Male,25,Medicare
+P03318,Male,81,Medicare
+P03319,Female,24,Private Insurance
+P03320,Female,58,Private Insurance
+P03321,Female,57,Private Insurance
+P03322,Male,20,Private Insurance
+P03323,Female,34,Medicaid
+P03324,Female,83,Medicare
+P03325,Female,69,Medicare
+P03326,Female,39,Private Insurance
+P03327,Female,21,Private Insurance
+P03328,Female,23,Medicaid
+P03329,Male,55,Medicaid
+P03330,Female,43,Private Insurance
+P03331,Female,28,Medicare
+P03332,Female,34,Private Insurance
+P03333,Male,48,Medicare
+P03334,Male,52,Medicaid
+P03335,Female,33,Medicare
+P03336,Female,35,Private Insurance
+P03337,Female,79,Medicaid
+P03338,Female,44,Medicare
+P03339,Female,52,Private Insurance
+P03340,Female,62,Private Insurance
+P03341,Female,52,Private Insurance
+P03342,Female,45,Medicare
+P03343,Female,26,Private Insurance
+P03344,Male,32,Medicare
+P03345,Male,38,Medicare
+P03346,Female,69,Medicare
+P03347,Male,52,Medicaid
+P03348,Male,68,Private Insurance
+P03349,Male,72,Medicare
+P03350,Male,61,Medicare
+P03351,Male,82,Private Insurance
+P03352,Male,42,Private Insurance
+P03353,Female,64,Private Insurance
+P03354,Female,73,Medicare
+P03355,Male,55,Private Insurance
+P03356,Male,28,Medicare
+P03357,Female,84,Self-Pay
+P03358,Male,32,Medicaid
+P03359,Female,18,Private Insurance
+P03360,Female,24,Medicare
+P03361,Female,18,Medicare
+P03362,Male,66,Medicare
+P03363,Female,90,Medicare
+P03364,Male,46,Medicare
+P03365,Female,43,Private Insurance
+P03366,Female,62,Medicare
+P03367,Male,88,Private Insurance
+P03368,Male,29,Medicare
+P03369,Male,49,Medicare
+P03370,Female,37,Private Insurance
+P03371,Male,68,Private Insurance
+P03372,Female,53,Medicaid
+P03373,Male,84,Medicare
+P03374,Female,18,Private Insurance
+P03375,Female,44,Medicare
+P03376,Female,57,Medicare
+P03377,Female,31,Private Insurance
+P03378,Male,86,Medicaid
+P03379,Male,23,Medicare
+P03380,Female,50,Private Insurance
+P03381,Male,72,Private Insurance
+P03382,Male,36,Medicare
+P03383,Male,46,Medicaid
+P03384,Male,78,Medicare
+P03385,Male,87,Private Insurance
+P03386,Female,41,Private Insurance
+P03387,Male,40,Medicare
+P03388,Female,27,Medicare
+P03389,Male,71,Medicare
+P03390,Female,58,Medicaid
+P03391,Male,66,Private Insurance
+P03392,Female,34,Medicare
+P03393,Female,73,Medicare
+P03394,Male,62,Medicare
+P03395,Female,47,Medicare
+P03396,Female,61,Medicare
+P03397,Female,91,Medicaid
+P03398,Female,72,Private Insurance
+P03399,Male,36,Self-Pay
+P03400,Female,46,Private Insurance
+P03401,Male,19,Medicaid
+P03402,Male,53,Private Insurance
+P03403,Female,36,Self-Pay
+P03404,Male,24,Medicare
+P03405,Female,43,Medicare
+P03406,Female,55,Medicare
+P03407,Female,20,Medicaid
+P03408,Female,83,Private Insurance
+P03409,Male,88,Medicare
+P03410,Male,60,Medicaid
+P03411,Male,79,Medicaid
+P03412,Male,88,Medicare
+P03413,Male,41,Medicare
+P03414,Male,56,Medicare
+P03415,Female,85,Medicare
+P03416,Female,61,Private Insurance
+P03417,Male,22,Private Insurance
+P03418,Female,72,Private Insurance
+P03419,Male,47,Private Insurance
+P03420,Male,46,Private Insurance
+P03421,Female,43,Private Insurance
+P03422,Female,43,Private Insurance
+P03423,Female,54,Private Insurance
+P03424,Male,70,Medicaid
+P03425,Female,47,Medicare
+P03426,Female,20,Private Insurance
+P03427,Female,60,Medicare
+P03428,Female,24,Medicaid
+P03429,Female,66,Medicaid
+P03430,Female,90,Medicare
+P03431,Female,58,Self-Pay
+P03432,Female,71,Medicare
+P03433,Female,86,Medicare
+P03434,Male,44,Medicare
+P03435,Female,25,Private Insurance
+P03436,Male,49,Medicaid
+P03437,Male,81,Private Insurance
+P03438,Female,27,Private Insurance
+P03439,Female,30,Medicare
+P03440,Female,80,Medicare
+P03441,Male,52,Medicare
+P03442,Female,78,Private Insurance
+P03443,Male,71,Private Insurance
+P03444,Female,25,Medicare
+P03445,Female,46,Medicare
+P03446,Female,58,Medicare
+P03447,Female,47,Private Insurance
+P03448,Female,38,Medicare
+P03449,Female,28,Medicare
+P03450,Male,19,Medicare
+P03451,Male,67,Private Insurance
+P03452,Female,58,Private Insurance
+P03453,Female,83,Medicaid
+P03454,Male,20,Private Insurance
+P03455,Female,68,Medicaid
+P03456,Male,85,Self-Pay
+P03457,Female,42,Medicare
+P03458,Female,47,Private Insurance
+P03459,Female,28,Medicaid
+P03460,Female,34,Medicare
+P03461,Male,43,Private Insurance
+P03462,Male,40,Medicare
+P03463,Female,73,Medicare
+P03464,Female,69,Medicare
+P03465,Male,65,Medicare
+P03466,Female,37,Medicaid
+P03467,Male,19,Medicaid
+P03468,Female,48,Private Insurance
+P03469,Female,44,Private Insurance
+P03470,Male,19,Medicare
+P03471,Male,21,Medicaid
+P03472,Female,30,Private Insurance
+P03473,Female,52,Medicare
+P03474,Female,89,Medicaid
+P03475,Female,83,Private Insurance
+P03476,Female,23,Private Insurance
+P03477,Female,48,Medicare
+P03478,Female,27,Medicare
+P03479,Male,38,Medicaid
+P03480,Male,91,Self-Pay
+P03481,Male,40,Medicare
+P03482,Female,20,Self-Pay
+P03483,Male,49,Medicare
+P03484,Female,37,Medicare
+P03485,Female,91,Medicare
+P03486,Female,46,Private Insurance
+P03487,Male,69,Medicare
+P03488,Male,63,Medicare
+P03489,Male,51,Private Insurance
+P03490,Male,78,Self-Pay
+P03491,Male,89,Medicare
+P03492,Female,88,Medicare
+P03493,Female,87,Private Insurance
+P03494,Female,28,Private Insurance
+P03495,Female,80,Medicare
+P03496,Male,38,Private Insurance
+P03497,Female,20,Medicare
+P03498,Female,27,Private Insurance
+P03499,Male,44,Medicaid
+P03500,Female,29,Medicaid
+P03501,Male,24,Medicare
+P03502,Female,34,Private Insurance
+P03503,Female,82,Self-Pay
+P03504,Male,81,Medicaid
+P03505,Female,43,Medicaid
+P03506,Female,32,Medicare
+P03507,Female,50,Private Insurance
+P03508,Male,79,Self-Pay
+P03509,Female,64,Private Insurance
+P03510,Male,52,Medicaid
+P03511,Male,82,Self-Pay
+P03512,Male,89,Medicare
+P03513,Female,42,Medicaid
+P03514,Female,74,Medicaid
+P03515,Female,49,Medicaid
+P03516,Female,80,Private Insurance
+P03517,Male,29,Private Insurance
+P03518,Male,80,Medicare
+P03519,Male,18,Medicare
+P03520,Male,68,Medicare
+P03521,Male,87,Medicaid
+P03522,Male,25,Medicare
+P03523,Male,85,Medicare
+P03524,Male,22,Private Insurance
+P03525,Male,56,Private Insurance
+P03526,Male,40,Private Insurance
+P03527,Female,85,Self-Pay
+P03528,Female,69,Private Insurance
+P03529,Female,21,Medicare
+P03530,Male,64,Private Insurance
+P03531,Male,38,Medicare
+P03532,Female,73,Private Insurance
+P03533,Male,83,Medicaid
+P03534,Male,76,Private Insurance
+P03535,Male,24,Medicaid
+P03536,Male,66,Medicare
+P03537,Male,33,Medicaid
+P03538,Male,34,Medicare
+P03539,Female,51,Self-Pay
+P03540,Male,50,Medicaid
+P03541,Male,43,Medicaid
+P03542,Female,83,Private Insurance
+P03543,Male,80,Private Insurance
+P03544,Male,58,Medicare
+P03545,Female,75,Medicare
+P03546,Male,27,Medicaid
+P03547,Male,32,Private Insurance
+P03548,Male,59,Private Insurance
+P03549,Male,74,Self-Pay
+P03550,Female,34,Medicare
+P03551,Female,77,Medicare
+P03552,Male,26,Medicare
+P03553,Female,53,Private Insurance
+P03554,Female,90,Medicare
+P03555,Male,53,Medicare
+P03556,Female,65,Medicaid
+P03557,Male,68,Medicare
+P03558,Male,87,Private Insurance
+P03559,Male,91,Medicaid
+P03560,Male,85,Medicaid
+P03561,Male,39,Medicaid
+P03562,Female,23,Private Insurance
+P03563,Male,43,Medicare
+P03564,Male,20,Medicare
+P03565,Male,69,Medicare
+P03566,Female,91,Medicare
+P03567,Female,77,Private Insurance
+P03568,Female,80,Medicare
+P03569,Female,82,Private Insurance
+P03570,Female,69,Medicare
+P03571,Male,31,Private Insurance
+P03572,Female,89,Private Insurance
+P03573,Female,85,Medicaid
+P03574,Female,45,Private Insurance
+P03575,Female,88,Medicare
+P03576,Male,27,Medicaid
+P03577,Male,74,Medicare
+P03578,Male,83,Medicare
+P03579,Female,67,Private Insurance
+P03580,Female,31,Medicare
+P03581,Male,33,Private Insurance
+P03582,Female,71,Medicare
+P03583,Male,60,Medicaid
+P03584,Female,59,Private Insurance
+P03585,Male,39,Private Insurance
+P03586,Male,85,Private Insurance
+P03587,Male,36,Private Insurance
+P03588,Female,83,Private Insurance
+P03589,Male,56,Medicare
+P03590,Male,90,Private Insurance
+P03591,Female,36,Medicare
+P03592,Male,33,Medicare
+P03593,Female,71,Medicare
+P03594,Female,42,Medicare
+P03595,Male,35,Medicaid
+P03596,Female,40,Private Insurance
+P03597,Male,28,Private Insurance
+P03598,Female,56,Medicaid
+P03599,Male,85,Medicare
+P03600,Female,42,Medicare
+P03601,Male,80,Medicare
+P03602,Female,47,Private Insurance
+P03603,Male,62,Medicare
+P03604,Male,78,Medicaid
+P03605,Male,68,Private Insurance
+P03606,Male,26,Private Insurance
+P03607,Female,19,Private Insurance
+P03608,Male,22,Private Insurance
+P03609,Female,79,Medicare
+P03610,Female,86,Medicare
+P03611,Female,69,Private Insurance
+P03612,Male,22,Private Insurance
+P03613,Male,76,Medicaid
+P03614,Female,85,Medicare
+P03615,Male,26,Private Insurance
+P03616,Male,39,Medicare
+P03617,Female,44,Medicare
+P03618,Female,27,Medicare
+P03619,Female,78,Medicaid
+P03620,Male,68,Medicare
+P03621,Female,27,Medicare
+P03622,Male,23,Private Insurance
+P03623,Male,79,Medicaid
+P03624,Female,22,Medicaid
+P03625,Male,87,Medicaid
+P03626,Male,80,Self-Pay
+P03627,Male,73,Medicare
+P03628,Female,76,Medicare
+P03629,Female,80,Private Insurance
+P03630,Female,76,Medicare
+P03631,Female,68,Medicaid
+P03632,Male,67,Medicaid
+P03633,Male,21,Self-Pay
+P03634,Male,65,Private Insurance
+P03635,Male,49,Private Insurance
+P03636,Male,68,Medicare
+P03637,Female,69,Private Insurance
+P03638,Male,91,Medicare
+P03639,Male,51,Private Insurance
+P03640,Male,53,Private Insurance
+P03641,Male,87,Medicare
+P03642,Female,60,Private Insurance
+P03643,Male,33,Medicare
+P03644,Male,76,Medicare
+P03645,Female,70,Private Insurance
+P03646,Male,36,Medicare
+P03647,Male,58,Medicare
+P03648,Male,64,Medicaid
+P03649,Female,71,Private Insurance
+P03650,Female,72,Medicare
+P03651,Female,36,Medicare
+P03652,Male,79,Private Insurance
+P03653,Female,76,Medicare
+P03654,Male,82,Medicare
+P03655,Male,85,Private Insurance
+P03656,Male,45,Medicaid
+P03657,Male,35,Private Insurance
+P03658,Female,43,Medicare
+P03659,Female,36,Private Insurance
+P03660,Female,72,Private Insurance
+P03661,Female,74,Medicare
+P03662,Female,23,Medicare
+P03663,Male,18,Self-Pay
+P03664,Male,25,Medicaid
+P03665,Female,68,Medicaid
+P03666,Male,42,Private Insurance
+P03667,Female,64,Private Insurance
+P03668,Male,72,Private Insurance
+P03669,Male,81,Medicare
+P03670,Male,27,Medicare
+P03671,Male,73,Private Insurance
+P03672,Male,29,Private Insurance
+P03673,Female,50,Private Insurance
+P03674,Male,88,Self-Pay
+P03675,Female,34,Private Insurance
+P03676,Male,78,Medicare
+P03677,Male,27,Private Insurance
+P03678,Male,48,Medicare
+P03679,Female,77,Medicare
+P03680,Male,87,Medicare
+P03681,Female,34,Private Insurance
+P03682,Male,67,Self-Pay
+P03683,Female,54,Medicare
+P03684,Male,79,Medicare
+P03685,Female,89,Medicaid
+P03686,Female,46,Private Insurance
+P03687,Female,49,Private Insurance
+P03688,Male,28,Medicaid
+P03689,Male,23,Private Insurance
+P03690,Male,52,Medicare
+P03691,Female,50,Medicaid
+P03692,Female,35,Medicare
+P03693,Female,54,Private Insurance
+P03694,Male,30,Medicare
+P03695,Male,91,Private Insurance
+P03696,Male,81,Medicare
+P03697,Female,18,Medicaid
+P03698,Female,80,Medicare
+P03699,Female,51,Medicare
+P03700,Male,27,Medicare
+P03701,Female,24,Private Insurance
+P03702,Female,73,Medicare
+P03703,Male,54,Private Insurance
+P03704,Female,46,Medicaid
+P03705,Female,29,Medicaid
+P03706,Female,34,Medicaid
+P03707,Female,65,Self-Pay
+P03708,Male,43,Medicare
+P03709,Male,29,Medicare
+P03710,Female,38,Private Insurance
+P03711,Male,59,Medicare
+P03712,Female,78,Private Insurance
+P03713,Female,75,Medicare
+P03714,Female,71,Private Insurance
+P03715,Female,51,Medicare
+P03716,Male,24,Private Insurance
+P03717,Male,52,Medicaid
+P03718,Male,32,Medicare
+P03719,Male,82,Medicare
+P03720,Male,42,Medicare
+P03721,Male,76,Private Insurance
+P03722,Female,23,Medicare
+P03723,Female,69,Medicare
+P03724,Male,38,Medicaid
+P03725,Male,88,Medicare
+P03726,Female,49,Medicare
+P03727,Male,70,Medicare
+P03728,Male,76,Private Insurance
+P03729,Male,86,Self-Pay
+P03730,Female,79,Medicare
+P03731,Male,21,Private Insurance
+P03732,Female,35,Medicare
+P03733,Male,73,Medicare
+P03734,Female,41,Medicaid
+P03735,Male,83,Medicare
+P03736,Male,30,Medicaid
+P03737,Female,79,Private Insurance
+P03738,Female,71,Private Insurance
+P03739,Female,32,Medicare
+P03740,Female,86,Medicare
+P03741,Female,20,Self-Pay
+P03742,Female,54,Medicare
+P03743,Female,54,Private Insurance
+P03744,Male,20,Medicare
+P03745,Male,80,Medicare
+P03746,Male,52,Medicare
+P03747,Female,69,Private Insurance
+P03748,Male,45,Private Insurance
+P03749,Male,35,Medicare
+P03750,Female,53,Private Insurance
+P03751,Female,50,Medicare
+P03752,Female,81,Medicare
+P03753,Male,43,Private Insurance
+P03754,Female,65,Medicaid
+P03755,Male,57,Medicare
+P03756,Male,34,Medicare
+P03757,Male,57,Self-Pay
+P03758,Male,24,Private Insurance
+P03759,Male,74,Private Insurance
+P03760,Female,25,Medicare
+P03761,Male,73,Private Insurance
+P03762,Female,48,Medicare
+P03763,Female,76,Self-Pay
+P03764,Male,75,Medicare
+P03765,Female,29,Medicare
+P03766,Male,65,Medicaid
+P03767,Female,48,Private Insurance
+P03768,Male,80,Private Insurance
+P03769,Male,91,Medicare
+P03770,Male,56,Medicaid
+P03771,Female,37,Private Insurance
+P03772,Female,65,Medicare
+P03773,Male,88,Private Insurance
+P03774,Female,71,Private Insurance
+P03775,Female,88,Medicare
+P03776,Female,46,Medicare
+P03777,Female,91,Medicare
+P03778,Female,90,Medicare
+P03779,Female,65,Medicaid
+P03780,Female,91,Private Insurance
+P03781,Male,73,Medicaid
+P03782,Male,34,Medicare
+P03783,Male,26,Private Insurance
+P03784,Female,51,Private Insurance
+P03785,Female,62,Private Insurance
+P03786,Male,26,Medicare
+P03787,Female,24,Private Insurance
+P03788,Male,33,Private Insurance
+P03789,Male,36,Medicaid
+P03790,Female,23,Medicare
+P03791,Male,28,Medicare
+P03792,Male,78,Private Insurance
+P03793,Female,59,Medicare
+P03794,Female,30,Private Insurance
+P03795,Male,29,Private Insurance
+P03796,Female,91,Medicare
+P03797,Female,37,Medicaid
+P03798,Male,67,Medicare
+P03799,Male,53,Medicare
+P03800,Female,86,Private Insurance
+P03801,Male,54,Private Insurance
+P03802,Female,29,Medicare
+P03803,Female,57,Private Insurance
+P03804,Female,71,Medicare
+P03805,Male,19,Medicaid
+P03806,Female,67,Medicaid
+P03807,Male,58,Medicare
+P03808,Male,62,Self-Pay
+P03809,Male,26,Private Insurance
+P03810,Male,79,Medicaid
+P03811,Female,64,Medicaid
+P03812,Male,22,Medicare
+P03813,Male,18,Medicare
+P03814,Female,61,Private Insurance
+P03815,Male,39,Private Insurance
+P03816,Female,55,Private Insurance
+P03817,Male,36,Medicare
+P03818,Female,48,Medicaid
+P03819,Female,84,Medicare
+P03820,Male,59,Medicare
+P03821,Male,43,Medicaid
+P03822,Male,30,Medicaid
+P03823,Female,75,Medicare
+P03824,Male,35,Private Insurance
+P03825,Male,84,Private Insurance
+P03826,Male,20,Medicare
+P03827,Male,72,Private Insurance
+P03828,Male,75,Medicare
+P03829,Female,80,Medicaid
+P03830,Male,69,Private Insurance
+P03831,Male,41,Medicaid
+P03832,Female,89,Private Insurance
+P03833,Female,26,Medicare
+P03834,Male,54,Medicaid
+P03835,Male,70,Medicaid
+P03836,Male,41,Private Insurance
+P03837,Female,38,Private Insurance
+P03838,Male,57,Private Insurance
+P03839,Female,79,Private Insurance
+P03840,Female,87,Medicare
+P03841,Female,86,Medicare
+P03842,Male,31,Private Insurance
+P03843,Male,59,Medicaid
+P03844,Male,67,Self-Pay
+P03845,Male,78,Medicare
+P03846,Female,21,Medicare
+P03847,Female,89,Medicaid
+P03848,Female,34,Private Insurance
+P03849,Female,74,Private Insurance
+P03850,Male,65,Medicare
+P03851,Male,61,Medicare
+P03852,Male,62,Medicaid
+P03853,Female,50,Medicare
+P03854,Female,48,Self-Pay
+P03855,Female,64,Medicaid
+P03856,Male,23,Medicare
+P03857,Male,89,Medicare
+P03858,Female,88,Medicare
+P03859,Male,51,Private Insurance
+P03860,Female,70,Medicare
+P03861,Female,31,Medicare
+P03862,Female,33,Self-Pay
+P03863,Male,60,Medicare
+P03864,Male,90,Private Insurance
+P03865,Male,91,Medicare
+P03866,Male,29,Medicaid
+P03867,Male,87,Medicare
+P03868,Female,36,Medicare
+P03869,Female,58,Medicaid
+P03870,Male,70,Medicare
+P03871,Male,46,Medicaid
+P03872,Male,87,Medicare
+P03873,Male,76,Private Insurance
+P03874,Female,81,Private Insurance
+P03875,Male,41,Medicare
+P03876,Male,33,Medicare
+P03877,Male,69,Private Insurance
+P03878,Female,23,Private Insurance
+P03879,Female,54,Medicare
+P03880,Male,21,Medicaid
+P03881,Female,55,Medicare
+P03882,Female,58,Medicare
+P03883,Female,31,Private Insurance
+P03884,Male,88,Private Insurance
+P03885,Female,68,Private Insurance
+P03886,Female,82,Medicare
+P03887,Female,69,Medicare
+P03888,Female,47,Private Insurance
+P03889,Female,74,Medicare
+P03890,Male,47,Medicare
+P03891,Female,59,Medicare
+P03892,Female,28,Medicaid
+P03893,Female,44,Medicare
+P03894,Male,41,Medicare
+P03895,Female,56,Private Insurance
+P03896,Female,89,Private Insurance
+P03897,Male,35,Medicare
+P03898,Female,62,Private Insurance
+P03899,Female,29,Medicare
+P03900,Female,66,Medicaid
+P03901,Male,48,Private Insurance
+P03902,Male,39,Medicare
+P03903,Female,61,Medicare
+P03904,Male,81,Private Insurance
+P03905,Female,42,Private Insurance
+P03906,Male,68,Medicaid
+P03907,Female,24,Medicare
+P03908,Male,23,Medicare
+P03909,Female,41,Medicare
+P03910,Male,36,Medicare
+P03911,Male,26,Medicaid
+P03912,Male,53,Private Insurance
+P03913,Male,57,Medicare
+P03914,Female,41,Medicare
+P03915,Female,65,Medicaid
+P03916,Male,80,Medicare
+P03917,Female,86,Self-Pay
+P03918,Male,70,Medicaid
+P03919,Female,71,Private Insurance
+P03920,Female,59,Private Insurance
+P03921,Female,62,Private Insurance
+P03922,Male,31,Medicare
+P03923,Female,46,Private Insurance
+P03924,Male,23,Medicare
+P03925,Female,24,Medicare
+P03926,Male,54,Medicare
+P03927,Female,70,Medicare
+P03928,Female,35,Medicare
+P03929,Female,55,Medicare
+P03930,Male,76,Medicare
+P03931,Female,18,Private Insurance
+P03932,Male,85,Medicare
+P03933,Female,61,Medicaid
+P03934,Male,64,Self-Pay
+P03935,Male,52,Medicaid
+P03936,Female,77,Private Insurance
+P03937,Male,69,Self-Pay
+P03938,Male,25,Medicare
+P03939,Male,58,Medicare
+P03940,Male,20,Private Insurance
+P03941,Female,86,Private Insurance
+P03942,Female,31,Private Insurance
+P03943,Male,43,Medicare
+P03944,Male,87,Private Insurance
+P03945,Male,75,Medicare
+P03946,Male,57,Medicare
+P03947,Female,68,Medicare
+P03948,Female,22,Medicaid
+P03949,Male,49,Private Insurance
+P03950,Male,18,Private Insurance
+P03951,Male,71,Private Insurance
+P03952,Female,28,Medicare
+P03953,Female,70,Medicaid
+P03954,Male,25,Private Insurance
+P03955,Male,42,Medicaid
+P03956,Female,57,Private Insurance
+P03957,Female,49,Private Insurance
+P03958,Male,45,Private Insurance
+P03959,Male,20,Medicare
+P03960,Male,79,Private Insurance
+P03961,Female,44,Private Insurance
+P03962,Male,62,Medicare
+P03963,Male,42,Private Insurance
+P03964,Female,78,Medicare
+P03965,Male,61,Medicaid
+P03966,Female,63,Private Insurance
+P03967,Male,31,Private Insurance
+P03968,Male,25,Private Insurance
+P03969,Female,65,Medicare
+P03970,Male,31,Medicare
+P03971,Female,82,Private Insurance
+P03972,Female,24,Medicare
+P03973,Male,66,Medicaid
+P03974,Female,72,Medicare
+P03975,Male,30,Medicare
+P03976,Female,90,Private Insurance
+P03977,Male,73,Private Insurance
+P03978,Female,73,Medicare
+P03979,Male,32,Medicare
+P03980,Male,74,Medicare
+P03981,Female,75,Medicaid
+P03982,Female,52,Medicare
+P03983,Male,33,Medicaid
+P03984,Male,25,Private Insurance
+P03985,Female,62,Private Insurance
+P03986,Female,57,Medicare
+P03987,Male,71,Private Insurance
+P03988,Male,31,Private Insurance
+P03989,Male,76,Medicare
+P03990,Female,70,Medicare
+P03991,Male,44,Medicaid
+P03992,Male,64,Medicare
+P03993,Female,23,Private Insurance
+P03994,Male,72,Private Insurance
+P03995,Female,61,Medicaid
+P03996,Male,35,Private Insurance
+P03997,Male,33,Private Insurance
+P03998,Male,29,Medicare
+P03999,Female,37,Medicare
+P04000,Male,62,Private Insurance
+P04001,Female,81,Private Insurance
+P04002,Female,76,Private Insurance
+P04003,Female,39,Private Insurance
+P04004,Male,64,Medicare
+P04005,Male,46,Medicare
+P04006,Male,62,Medicare
+P04007,Male,26,Medicare
+P04008,Male,41,Private Insurance
+P04009,Female,32,Self-Pay
+P04010,Male,53,Private Insurance
+P04011,Male,30,Medicaid
+P04012,Male,61,Medicare
+P04013,Female,88,Medicare
+P04014,Male,89,Medicare
+P04015,Female,53,Private Insurance
+P04016,Male,78,Medicaid
+P04017,Female,57,Private Insurance
+P04018,Female,44,Private Insurance
+P04019,Male,18,Medicare
+P04020,Male,51,Medicare
+P04021,Male,85,Private Insurance
+P04022,Male,38,Medicare
+P04023,Female,50,Private Insurance
+P04024,Female,24,Medicaid
+P04025,Female,82,Medicare
+P04026,Female,20,Medicaid
+P04027,Male,68,Medicare
+P04028,Male,71,Private Insurance
+P04029,Female,91,Medicare
+P04030,Male,76,Private Insurance
+P04031,Female,23,Private Insurance
+P04032,Male,46,Private Insurance
+P04033,Male,34,Medicare
+P04034,Female,77,Private Insurance
+P04035,Male,39,Medicaid
+P04036,Female,41,Medicaid
+P04037,Female,68,Private Insurance
+P04038,Female,67,Medicaid
+P04039,Female,28,Private Insurance
+P04040,Female,73,Medicare
+P04041,Female,88,Private Insurance
+P04042,Male,59,Medicare
+P04043,Male,56,Private Insurance
+P04044,Female,86,Private Insurance
+P04045,Male,65,Medicare
+P04046,Male,74,Medicaid
+P04047,Male,38,Private Insurance
+P04048,Female,37,Medicare
+P04049,Female,32,Medicaid
+P04050,Male,86,Medicare
+P04051,Female,68,Private Insurance
+P04052,Female,79,Private Insurance
+P04053,Female,54,Private Insurance
+P04054,Female,23,Private Insurance
+P04055,Female,88,Private Insurance
+P04056,Male,43,Medicare
+P04057,Female,25,Medicare
+P04058,Male,90,Medicaid
+P04059,Female,21,Private Insurance
+P04060,Female,38,Private Insurance
+P04061,Male,48,Medicaid
+P04062,Male,38,Private Insurance
+P04063,Female,42,Medicare
+P04064,Male,32,Private Insurance
+P04065,Female,52,Medicare
+P04066,Male,66,Medicare
+P04067,Male,60,Private Insurance
+P04068,Female,58,Private Insurance
+P04069,Female,54,Medicaid
+P04070,Female,74,Medicaid
+P04071,Male,59,Private Insurance
+P04072,Female,64,Private Insurance
+P04073,Female,78,Private Insurance
+P04074,Female,31,Medicare
+P04075,Female,85,Self-Pay
+P04076,Female,70,Private Insurance
+P04077,Male,51,Private Insurance
+P04078,Male,41,Private Insurance
+P04079,Female,37,Medicare
+P04080,Male,86,Medicare
+P04081,Female,47,Private Insurance
+P04082,Male,24,Medicaid
+P04083,Female,53,Private Insurance
+P04084,Female,55,Medicaid
+P04085,Male,69,Medicare
+P04086,Male,32,Medicare
+P04087,Male,63,Private Insurance
+P04088,Female,40,Medicare
+P04089,Female,29,Private Insurance
+P04090,Male,61,Medicare
+P04091,Female,32,Private Insurance
+P04092,Male,66,Medicare
+P04093,Male,38,Medicare
+P04094,Female,32,Private Insurance
+P04095,Male,31,Medicaid
+P04096,Male,59,Medicare
+P04097,Male,32,Private Insurance
+P04098,Male,80,Medicare
+P04099,Male,85,Medicaid
+P04100,Male,44,Medicare
+P04101,Female,70,Medicare
+P04102,Male,69,Medicaid
+P04103,Female,80,Medicare
+P04104,Male,90,Private Insurance
+P04105,Male,70,Medicare
+P04106,Female,74,Private Insurance
+P04107,Female,69,Medicare
+P04108,Male,60,Medicare
+P04109,Female,24,Medicare
+P04110,Female,59,Private Insurance
+P04111,Female,21,Private Insurance
+P04112,Female,86,Private Insurance
+P04113,Male,22,Medicaid
+P04114,Male,58,Private Insurance
+P04115,Female,21,Private Insurance
+P04116,Male,19,Medicare
+P04117,Female,84,Medicare
+P04118,Male,38,Medicaid
+P04119,Male,87,Private Insurance
+P04120,Female,60,Medicare
+P04121,Male,86,Private Insurance
+P04122,Female,26,Medicaid
+P04123,Female,45,Medicaid
+P04124,Female,43,Medicare
+P04125,Female,20,Medicaid
+P04126,Female,90,Medicare
+P04127,Female,66,Medicare
+P04128,Female,34,Private Insurance
+P04129,Male,80,Medicare
+P04130,Male,72,Medicare
+P04131,Male,40,Medicare
+P04132,Male,51,Medicaid
+P04133,Female,86,Medicare
+P04134,Female,32,Medicare
+P04135,Female,64,Medicaid
+P04136,Male,20,Medicaid
+P04137,Female,45,Self-Pay
+P04138,Male,20,Medicare
+P04139,Female,21,Medicare
+P04140,Female,48,Medicaid
+P04141,Male,62,Medicare
+P04142,Male,76,Private Insurance
+P04143,Male,62,Medicaid
+P04144,Female,54,Medicare
+P04145,Female,82,Private Insurance
+P04146,Female,26,Medicare
+P04147,Male,34,Self-Pay
+P04148,Male,82,Private Insurance
+P04149,Female,20,Medicaid
+P04150,Female,43,Medicare
+P04151,Male,70,Medicare
+P04152,Male,48,Medicare
+P04153,Female,43,Medicare
+P04154,Male,40,Medicaid
+P04155,Male,47,Private Insurance
+P04156,Male,27,Medicaid
+P04157,Female,89,Private Insurance
+P04158,Female,81,Private Insurance
+P04159,Female,39,Private Insurance
+P04160,Female,32,Medicare
+P04161,Female,73,Medicare
+P04162,Male,91,Private Insurance
+P04163,Female,37,Private Insurance
+P04164,Male,64,Private Insurance
+P04165,Female,70,Private Insurance
+P04166,Male,70,Medicare
+P04167,Male,18,Medicaid
+P04168,Male,19,Medicare
+P04169,Male,75,Private Insurance
+P04170,Male,36,Medicaid
+P04171,Male,79,Private Insurance
+P04172,Female,89,Private Insurance
+P04173,Male,29,Private Insurance
+P04174,Female,43,Medicare
+P04175,Female,44,Medicare
+P04176,Female,46,Private Insurance
+P04177,Female,32,Medicare
+P04178,Female,63,Medicare
+P04179,Male,18,Medicare
+P04180,Male,77,Medicaid
+P04181,Male,74,Medicare
+P04182,Female,20,Private Insurance
+P04183,Female,35,Self-Pay
+P04184,Male,69,Self-Pay
+P04185,Male,77,Medicare
+P04186,Female,51,Private Insurance
+P04187,Male,77,Self-Pay
+P04188,Female,43,Private Insurance
+P04189,Female,89,Private Insurance
+P04190,Female,36,Private Insurance
+P04191,Female,39,Medicare
+P04192,Female,50,Private Insurance
+P04193,Female,55,Medicare
+P04194,Female,52,Medicare
+P04195,Female,84,Self-Pay
+P04196,Male,27,Medicaid
+P04197,Male,32,Medicare
+P04198,Male,28,Self-Pay
+P04199,Male,41,Self-Pay
+P04200,Female,21,Medicare
+P04201,Female,30,Private Insurance
+P04202,Male,90,Medicare
+P04203,Male,74,Medicare
+P04204,Female,54,Medicare
+P04205,Male,65,Medicare
+P04206,Male,88,Medicare
+P04207,Female,18,Medicare
+P04208,Female,77,Private Insurance
+P04209,Male,29,Private Insurance
+P04210,Male,38,Private Insurance
+P04211,Male,28,Private Insurance
+P04212,Female,61,Medicare
+P04213,Female,75,Private Insurance
+P04214,Male,61,Private Insurance
+P04215,Female,51,Medicare
+P04216,Female,42,Medicare
+P04217,Male,21,Private Insurance
+P04218,Female,81,Private Insurance
+P04219,Female,33,Private Insurance
+P04220,Male,27,Medicare
+P04221,Male,83,Medicare
+P04222,Female,52,Medicaid
+P04223,Female,23,Private Insurance
+P04224,Female,36,Medicare
+P04225,Female,76,Medicare
+P04226,Female,70,Medicaid
+P04227,Male,25,Private Insurance
+P04228,Female,27,Medicare
+P04229,Male,84,Medicaid
+P04230,Male,55,Private Insurance
+P04231,Female,46,Self-Pay
+P04232,Female,32,Medicare
+P04233,Male,40,Medicare
+P04234,Female,63,Private Insurance
+P04235,Male,45,Medicare
+P04236,Male,43,Private Insurance
+P04237,Male,27,Private Insurance
+P04238,Female,64,Medicare
+P04239,Female,21,Private Insurance
+P04240,Male,72,Private Insurance
+P04241,Female,83,Medicaid
+P04242,Male,84,Medicare
+P04243,Female,24,Self-Pay
+P04244,Male,72,Medicare
+P04245,Male,48,Private Insurance
+P04246,Female,91,Private Insurance
+P04247,Male,36,Medicaid
+P04248,Male,45,Private Insurance
+P04249,Female,45,Self-Pay
+P04250,Female,36,Medicare
+P04251,Male,37,Medicare
+P04252,Male,30,Private Insurance
+P04253,Male,60,Medicare
+P04254,Female,28,Medicare
+P04255,Male,65,Private Insurance
+P04256,Female,32,Private Insurance
+P04257,Female,34,Self-Pay
+P04258,Male,71,Medicare
+P04259,Male,67,Medicare
+P04260,Male,45,Medicare
+P04261,Male,21,Private Insurance
+P04262,Female,39,Private Insurance
+P04263,Male,56,Medicare
+P04264,Male,51,Medicare
+P04265,Female,61,Private Insurance
+P04266,Male,59,Medicaid
+P04267,Female,57,Medicare
+P04268,Male,29,Private Insurance
+P04269,Female,19,Medicare
+P04270,Female,45,Private Insurance
+P04271,Female,91,Private Insurance
+P04272,Female,84,Medicaid
+P04273,Male,88,Medicare
+P04274,Male,89,Medicare
+P04275,Female,27,Private Insurance
+P04276,Female,74,Medicare
+P04277,Male,54,Private Insurance
+P04278,Male,81,Self-Pay
+P04279,Male,57,Self-Pay
+P04280,Male,77,Medicaid
+P04281,Male,65,Private Insurance
+P04282,Female,36,Self-Pay
+P04283,Male,89,Medicare
+P04284,Male,50,Medicare
+P04285,Female,61,Medicare
+P04286,Female,54,Medicare
+P04287,Female,53,Private Insurance
+P04288,Female,38,Medicaid
+P04289,Male,19,Private Insurance
+P04290,Female,48,Private Insurance
+P04291,Female,47,Private Insurance
+P04292,Male,61,Private Insurance
+P04293,Female,29,Medicare
+P04294,Female,68,Private Insurance
+P04295,Male,66,Medicare
+P04296,Male,41,Medicaid
+P04297,Male,41,Medicare
+P04298,Male,77,Private Insurance
+P04299,Male,28,Private Insurance
+P04300,Female,30,Medicaid
+P04301,Male,89,Medicaid
+P04302,Female,91,Private Insurance
+P04303,Female,89,Medicare
+P04304,Female,81,Medicare
+P04305,Female,37,Private Insurance
+P04306,Male,89,Medicare
+P04307,Male,90,Medicaid
+P04308,Female,88,Medicaid
+P04309,Female,45,Medicare
+P04310,Female,19,Medicare
+P04311,Male,60,Medicare
+P04312,Female,25,Medicare
+P04313,Male,30,Medicaid
+P04314,Female,52,Private Insurance
+P04315,Female,40,Self-Pay
+P04316,Male,63,Medicare
+P04317,Female,32,Private Insurance
+P04318,Male,19,Medicare
+P04319,Male,78,Medicaid
+P04320,Female,81,Medicaid
+P04321,Female,69,Medicaid
+P04322,Female,53,Private Insurance
+P04323,Female,84,Medicare
+P04324,Male,86,Medicare
+P04325,Female,84,Private Insurance
+P04326,Female,64,Medicare
+P04327,Male,19,Medicare
+P04328,Female,61,Medicare
+P04329,Male,81,Medicare
+P04330,Female,45,Medicaid
+P04331,Male,71,Medicaid
+P04332,Male,91,Medicare
+P04333,Male,84,Medicare
+P04334,Female,53,Private Insurance
+P04335,Male,80,Private Insurance
+P04336,Male,42,Self-Pay
+P04337,Female,65,Private Insurance
+P04338,Female,56,Private Insurance
+P04339,Male,64,Private Insurance
+P04340,Male,38,Private Insurance
+P04341,Male,47,Medicare
+P04342,Male,48,Private Insurance
+P04343,Female,43,Medicare
+P04344,Female,39,Private Insurance
+P04345,Female,38,Medicaid
+P04346,Male,18,Private Insurance
+P04347,Female,54,Medicare
+P04348,Female,63,Medicaid
+P04349,Female,26,Medicare
+P04350,Female,34,Medicare
+P04351,Female,64,Medicare
+P04352,Female,76,Medicare
+P04353,Male,71,Medicaid
+P04354,Female,29,Medicaid
+P04355,Female,81,Private Insurance
+P04356,Female,23,Medicaid
+P04357,Male,70,Medicare
+P04358,Female,33,Self-Pay
+P04359,Female,22,Medicaid
+P04360,Male,90,Medicaid
+P04361,Male,63,Medicaid
+P04362,Female,31,Private Insurance
+P04363,Female,61,Medicare
+P04364,Female,80,Medicare
+P04365,Male,69,Private Insurance
+P04366,Female,43,Medicare
+P04367,Male,70,Private Insurance
+P04368,Male,46,Medicaid
+P04369,Male,36,Medicaid
+P04370,Male,64,Private Insurance
+P04371,Male,25,Medicare
+P04372,Male,40,Private Insurance
+P04373,Male,52,Self-Pay
+P04374,Male,70,Medicaid
+P04375,Female,75,Private Insurance
+P04376,Male,22,Medicare
+P04377,Male,33,Private Insurance
+P04378,Female,34,Medicare
+P04379,Male,49,Medicare
+P04380,Female,69,Medicare
+P04381,Male,37,Medicare
+P04382,Male,83,Medicare
+P04383,Female,18,Private Insurance
+P04384,Female,75,Private Insurance
+P04385,Female,61,Medicare
+P04386,Female,23,Medicare
+P04387,Female,67,Private Insurance
+P04388,Male,89,Medicare
+P04389,Male,37,Medicare
+P04390,Male,31,Medicaid
+P04391,Male,22,Medicare
+P04392,Female,58,Medicare
+P04393,Female,57,Private Insurance
+P04394,Male,51,Private Insurance
+P04395,Female,62,Medicare
+P04396,Female,88,Private Insurance
+P04397,Male,88,Medicaid
+P04398,Male,44,Medicare
+P04399,Male,61,Medicare
+P04400,Male,50,Medicare
+P04401,Male,50,Medicaid
+P04402,Female,61,Medicare
+P04403,Male,37,Medicare
+P04404,Male,53,Medicare
+P04405,Female,24,Private Insurance
+P04406,Female,49,Private Insurance
+P04407,Female,84,Medicaid
+P04408,Male,56,Private Insurance
+P04409,Male,41,Private Insurance
+P04410,Female,87,Private Insurance
+P04411,Male,71,Medicare
+P04412,Male,55,Medicaid
+P04413,Female,91,Private Insurance
+P04414,Female,49,Medicare
+P04415,Male,62,Medicare
+P04416,Male,78,Medicaid
+P04417,Male,87,Private Insurance
+P04418,Male,70,Private Insurance
+P04419,Male,68,Medicare
+P04420,Male,73,Medicare
+P04421,Male,44,Self-Pay
+P04422,Female,55,Medicare
+P04423,Female,79,Medicare
+P04424,Female,35,Medicaid
+P04425,Male,81,Private Insurance
+P04426,Male,47,Private Insurance
+P04427,Male,66,Private Insurance
+P04428,Male,58,Medicare
+P04429,Male,30,Medicare
+P04430,Female,51,Medicare
+P04431,Female,42,Private Insurance
+P04432,Female,83,Medicaid
+P04433,Male,35,Medicare
+P04434,Female,22,Private Insurance
+P04435,Male,36,Medicare
+P04436,Male,59,Medicaid
+P04437,Male,35,Private Insurance
+P04438,Female,49,Medicare
+P04439,Female,38,Medicare
+P04440,Male,27,Medicare
+P04441,Female,54,Medicare
+P04442,Female,66,Medicare
+P04443,Male,30,Private Insurance
+P04444,Male,72,Medicare
+P04445,Male,34,Private Insurance
+P04446,Female,26,Medicare
+P04447,Male,61,Medicare
+P04448,Female,63,Medicare
+P04449,Male,25,Private Insurance
+P04450,Female,54,Medicaid
+P04451,Male,36,Private Insurance
+P04452,Female,80,Private Insurance
+P04453,Female,63,Private Insurance
+P04454,Female,88,Private Insurance
+P04455,Female,43,Medicare
+P04456,Male,63,Private Insurance
+P04457,Female,63,Private Insurance
+P04458,Male,31,Self-Pay
+P04459,Male,80,Medicare
+P04460,Female,89,Private Insurance
+P04461,Male,20,Medicare
+P04462,Female,45,Medicare
+P04463,Female,46,Private Insurance
+P04464,Male,35,Self-Pay
+P04465,Female,52,Medicaid
+P04466,Male,64,Private Insurance
+P04467,Male,22,Medicare
+P04468,Male,76,Medicare
+P04469,Female,76,Medicaid
+P04470,Female,64,Medicare
+P04471,Female,30,Private Insurance
+P04472,Female,50,Medicare
+P04473,Male,79,Medicaid
+P04474,Male,33,Medicaid
+P04475,Female,61,Medicare
+P04476,Male,75,Private Insurance
+P04477,Male,23,Medicaid
+P04478,Male,32,Medicaid
+P04479,Female,21,Private Insurance
+P04480,Female,73,Medicare
+P04481,Male,81,Private Insurance
+P04482,Male,85,Medicare
+P04483,Female,51,Medicare
+P04484,Female,73,Self-Pay
+P04485,Male,49,Private Insurance
+P04486,Female,26,Medicare
+P04487,Male,80,Private Insurance
+P04488,Male,89,Private Insurance
+P04489,Female,50,Medicare
+P04490,Female,38,Medicare
+P04491,Male,72,Medicaid
+P04492,Female,74,Medicare
+P04493,Female,19,Medicare
+P04494,Female,30,Private Insurance
+P04495,Female,21,Medicare
+P04496,Female,67,Private Insurance
+P04497,Male,65,Medicaid
+P04498,Male,47,Medicaid
+P04499,Male,46,Private Insurance
+P04500,Male,25,Medicaid
+P04501,Female,29,Medicare
+P04502,Female,58,Medicare
+P04503,Male,43,Private Insurance
+P04504,Male,67,Medicare
+P04505,Female,19,Medicare
+P04506,Male,72,Self-Pay
+P04507,Female,73,Self-Pay
+P04508,Male,31,Medicare
+P04509,Female,23,Medicare
+P04510,Female,78,Private Insurance
+P04511,Male,29,Private Insurance
+P04512,Male,30,Medicare
+P04513,Male,36,Medicare
+P04514,Female,61,Private Insurance
+P04515,Female,76,Private Insurance
+P04516,Male,54,Private Insurance
+P04517,Female,42,Medicare
+P04518,Female,33,Medicare
+P04519,Male,55,Private Insurance
+P04520,Male,60,Medicare
+P04521,Female,31,Medicare
+P04522,Female,23,Medicare
+P04523,Female,40,Medicaid
+P04524,Female,77,Medicaid
+P04525,Female,29,Private Insurance
+P04526,Male,30,Private Insurance
+P04527,Female,23,Private Insurance
+P04528,Female,80,Private Insurance
+P04529,Female,55,Medicare
+P04530,Male,67,Medicare
+P04531,Male,69,Medicaid
+P04532,Male,57,Medicare
+P04533,Male,25,Private Insurance
+P04534,Male,78,Medicare
+P04535,Female,25,Medicare
+P04536,Female,51,Medicaid
+P04537,Male,77,Medicaid
+P04538,Female,74,Private Insurance
+P04539,Male,63,Medicaid
+P04540,Male,39,Medicare
+P04541,Male,57,Medicare
+P04542,Female,62,Private Insurance
+P04543,Male,72,Medicare
+P04544,Male,68,Medicare
+P04545,Male,22,Medicare
+P04546,Female,30,Medicare
+P04547,Male,45,Medicaid
+P04548,Female,79,Private Insurance
+P04549,Female,41,Private Insurance
+P04550,Female,24,Private Insurance
+P04551,Female,55,Medicare
+P04552,Male,54,Medicaid
+P04553,Male,85,Medicare
+P04554,Female,59,Medicare
+P04555,Male,22,Medicaid
+P04556,Female,81,Medicare
+P04557,Female,67,Private Insurance
+P04558,Female,32,Private Insurance
+P04559,Female,90,Private Insurance
+P04560,Female,70,Private Insurance
+P04561,Female,42,Medicare
+P04562,Male,26,Medicare
+P04563,Female,55,Medicare
+P04564,Male,39,Medicare
+P04565,Male,66,Medicare
+P04566,Female,85,Medicare
+P04567,Male,32,Medicaid
+P04568,Male,82,Private Insurance
+P04569,Male,71,Private Insurance
+P04570,Female,47,Medicaid
+P04571,Female,37,Medicaid
+P04572,Female,50,Medicaid
+P04573,Male,24,Private Insurance
+P04574,Female,25,Medicare
+P04575,Female,45,Private Insurance
+P04576,Male,62,Medicaid
+P04577,Male,90,Medicare
+P04578,Male,91,Medicare
+P04579,Female,28,Medicare
+P04580,Female,48,Medicaid
+P04581,Female,29,Private Insurance
+P04582,Male,68,Medicare
+P04583,Female,61,Medicare
+P04584,Female,67,Private Insurance
+P04585,Female,34,Medicare
+P04586,Female,52,Medicare
+P04587,Male,18,Medicare
+P04588,Male,46,Private Insurance
+P04589,Female,68,Private Insurance
+P04590,Female,81,Medicare
+P04591,Female,21,Self-Pay
+P04592,Male,45,Private Insurance
+P04593,Female,33,Medicare
+P04594,Male,80,Private Insurance
+P04595,Male,70,Medicare
+P04596,Female,34,Private Insurance
+P04597,Female,57,Medicare
+P04598,Male,30,Private Insurance
+P04599,Male,69,Medicare
+P04600,Male,75,Private Insurance
+P04601,Male,54,Medicare
+P04602,Female,78,Private Insurance
+P04603,Female,51,Medicare
+P04604,Male,87,Private Insurance
+P04605,Female,34,Private Insurance
+P04606,Female,37,Medicare
+P04607,Female,90,Private Insurance
+P04608,Male,76,Medicare
+P04609,Female,86,Private Insurance
+P04610,Male,50,Private Insurance
+P04611,Male,34,Medicare
+P04612,Male,74,Self-Pay
+P04613,Male,18,Medicare
+P04614,Male,30,Medicare
+P04615,Male,44,Private Insurance
+P04616,Male,87,Private Insurance
+P04617,Female,76,Medicare
+P04618,Female,23,Medicare
+P04619,Male,40,Private Insurance
+P04620,Female,27,Medicare
+P04621,Female,68,Private Insurance
+P04622,Female,36,Private Insurance
+P04623,Male,68,Medicare
+P04624,Female,85,Medicare
+P04625,Female,59,Medicaid
+P04626,Female,74,Medicare
+P04627,Male,85,Private Insurance
+P04628,Female,55,Self-Pay
+P04629,Female,79,Medicaid
+P04630,Female,24,Medicaid
+P04631,Male,88,Medicare
+P04632,Male,67,Private Insurance
+P04633,Female,69,Private Insurance
+P04634,Female,43,Private Insurance
+P04635,Male,43,Medicare
+P04636,Female,36,Private Insurance
+P04637,Male,26,Medicare
+P04638,Female,78,Private Insurance
+P04639,Female,37,Private Insurance
+P04640,Female,67,Private Insurance
+P04641,Female,39,Medicare
+P04642,Male,30,Private Insurance
+P04643,Female,29,Medicare
+P04644,Male,27,Private Insurance
+P04645,Female,82,Medicare
+P04646,Female,47,Medicare
+P04647,Female,25,Medicare
+P04648,Male,38,Private Insurance
+P04649,Female,39,Medicaid
+P04650,Male,35,Private Insurance
+P04651,Male,83,Private Insurance
+P04652,Female,65,Private Insurance
+P04653,Male,61,Medicare
+P04654,Female,26,Private Insurance
+P04655,Male,84,Medicaid
+P04656,Male,71,Medicare
+P04657,Female,43,Medicare
+P04658,Female,43,Medicare
+P04659,Male,51,Medicare
+P04660,Female,25,Medicare
+P04661,Female,27,Medicare
+P04662,Female,65,Medicaid
+P04663,Male,72,Medicare
+P04664,Female,71,Medicare
+P04665,Female,57,Private Insurance
+P04666,Female,32,Medicaid
+P04667,Male,35,Medicare
+P04668,Female,40,Medicaid
+P04669,Female,79,Medicare
+P04670,Female,63,Medicare
+P04671,Male,56,Medicare
+P04672,Female,32,Self-Pay
+P04673,Female,70,Private Insurance
+P04674,Male,81,Private Insurance
+P04675,Male,80,Self-Pay
+P04676,Female,33,Private Insurance
+P04677,Male,87,Private Insurance
+P04678,Female,83,Private Insurance
+P04679,Female,30,Medicare
+P04680,Female,64,Medicare
+P04681,Male,26,Medicaid
+P04682,Male,80,Medicaid
+P04683,Female,51,Self-Pay
+P04684,Male,46,Medicaid
+P04685,Female,54,Private Insurance
+P04686,Male,60,Medicaid
+P04687,Male,81,Medicare
+P04688,Male,41,Medicaid
+P04689,Female,88,Medicaid
+P04690,Female,51,Medicaid
+P04691,Male,65,Medicaid
+P04692,Male,29,Medicare
+P04693,Male,40,Medicaid
+P04694,Female,30,Private Insurance
+P04695,Male,62,Medicaid
+P04696,Female,82,Medicaid
+P04697,Female,64,Medicare
+P04698,Female,75,Medicare
+P04699,Male,22,Medicare
+P04700,Female,22,Medicare
+P04701,Male,77,Medicaid
+P04702,Male,38,Private Insurance
+P04703,Female,41,Medicare
+P04704,Female,35,Medicare
+P04705,Male,38,Medicaid
+P04706,Male,71,Medicaid
+P04707,Female,27,Medicaid
+P04708,Male,41,Private Insurance
+P04709,Female,77,Private Insurance
+P04710,Female,74,Medicare
+P04711,Male,40,Private Insurance
+P04712,Male,39,Medicare
+P04713,Male,85,Private Insurance
+P04714,Female,51,Private Insurance
+P04715,Female,87,Private Insurance
+P04716,Male,45,Medicare
+P04717,Female,56,Medicare
+P04718,Female,59,Medicaid
+P04719,Male,40,Medicare
+P04720,Female,87,Medicare
+P04721,Male,19,Medicaid
+P04722,Male,41,Medicaid
+P04723,Male,34,Private Insurance
+P04724,Male,82,Medicare
+P04725,Male,87,Private Insurance
+P04726,Male,86,Medicare
+P04727,Female,77,Private Insurance
+P04728,Female,67,Medicaid
+P04729,Female,29,Medicaid
+P04730,Male,64,Private Insurance
+P04731,Male,84,Medicare
+P04732,Male,82,Medicare
+P04733,Female,44,Medicaid
+P04734,Female,65,Medicare
+P04735,Male,79,Medicaid
+P04736,Male,61,Medicare
+P04737,Female,36,Private Insurance
+P04738,Male,76,Private Insurance
+P04739,Male,25,Medicare
+P04740,Female,72,Private Insurance
+P04741,Female,64,Medicare
+P04742,Male,19,Medicare
+P04743,Male,56,Medicare
+P04744,Female,62,Private Insurance
+P04745,Male,49,Medicaid
+P04746,Male,82,Private Insurance
+P04747,Male,55,Medicare
+P04748,Male,28,Self-Pay
+P04749,Male,27,Private Insurance
+P04750,Female,76,Medicare
+P04751,Male,72,Private Insurance
+P04752,Male,37,Medicaid
+P04753,Female,34,Medicare
+P04754,Female,85,Medicare
+P04755,Female,22,Medicare
+P04756,Female,77,Private Insurance
+P04757,Male,40,Medicaid
+P04758,Female,63,Medicare
+P04759,Male,69,Medicare
+P04760,Female,27,Medicaid
+P04761,Male,63,Medicaid
+P04762,Female,45,Private Insurance
+P04763,Female,60,Self-Pay
+P04764,Male,43,Medicaid
+P04765,Female,72,Medicare
+P04766,Female,65,Medicare
+P04767,Female,46,Private Insurance
+P04768,Male,44,Medicare
+P04769,Female,35,Medicare
+P04770,Male,77,Private Insurance
+P04771,Male,91,Medicare
+P04772,Male,86,Medicare
+P04773,Male,91,Private Insurance
+P04774,Female,38,Medicare
+P04775,Male,41,Medicare
+P04776,Female,20,Medicaid
+P04777,Male,79,Medicaid
+P04778,Male,19,Medicare
+P04779,Male,83,Private Insurance
+P04780,Male,59,Medicare
+P04781,Male,51,Private Insurance
+P04782,Male,59,Medicare
+P04783,Female,37,Medicaid
+P04784,Male,85,Medicare
+P04785,Male,62,Medicare
+P04786,Male,59,Medicare
+P04787,Female,64,Medicaid
+P04788,Female,22,Medicaid
+P04789,Female,66,Medicare
+P04790,Male,54,Self-Pay
+P04791,Male,51,Medicare
+P04792,Female,90,Medicaid
+P04793,Male,87,Medicare
+P04794,Male,35,Medicaid
+P04795,Male,36,Private Insurance
+P04796,Male,57,Medicaid
+P04797,Male,34,Medicare
+P04798,Female,77,Medicare
+P04799,Male,59,Private Insurance
+P04800,Female,89,Medicare
+P04801,Male,82,Medicare
+P04802,Male,70,Medicare
+P04803,Female,24,Medicare
+P04804,Male,22,Medicare
+P04805,Female,41,Private Insurance
+P04806,Female,45,Private Insurance
+P04807,Male,79,Medicaid
+P04808,Female,34,Medicare
+P04809,Male,37,Medicaid
+P04810,Female,20,Medicaid
+P04811,Male,54,Medicaid
+P04812,Female,32,Medicare
+P04813,Male,68,Self-Pay
+P04814,Female,65,Medicaid
+P04815,Female,25,Private Insurance
+P04816,Female,30,Medicare
+P04817,Female,65,Medicare
+P04818,Female,20,Medicare
+P04819,Female,82,Private Insurance
+P04820,Male,90,Medicare
+P04821,Male,48,Private Insurance
+P04822,Male,43,Private Insurance
+P04823,Male,73,Private Insurance
+P04824,Male,51,Private Insurance
+P04825,Female,26,Private Insurance
+P04826,Male,79,Private Insurance
+P04827,Female,30,Medicare
+P04828,Male,86,Private Insurance
+P04829,Male,58,Private Insurance
+P04830,Female,18,Medicare
+P04831,Female,64,Private Insurance
+P04832,Female,21,Medicare
+P04833,Female,80,Medicare
+P04834,Male,69,Medicare
+P04835,Female,27,Medicare
+P04836,Male,45,Private Insurance
+P04837,Male,23,Private Insurance
+P04838,Male,44,Private Insurance
+P04839,Male,29,Self-Pay
+P04840,Male,79,Medicare
+P04841,Female,69,Medicare
+P04842,Female,65,Medicaid
+P04843,Male,84,Private Insurance
+P04844,Male,63,Medicare
+P04845,Male,91,Self-Pay
+P04846,Male,32,Private Insurance
+P04847,Female,88,Self-Pay
+P04848,Male,53,Medicare
+P04849,Female,31,Medicaid
+P04850,Male,20,Private Insurance
+P04851,Female,84,Private Insurance
+P04852,Male,36,Medicare
+P04853,Female,71,Private Insurance
+P04854,Male,86,Private Insurance
+P04855,Female,27,Medicare
+P04856,Male,50,Medicare
+P04857,Male,30,Medicaid
+P04858,Female,68,Medicaid
+P04859,Female,49,Private Insurance
+P04860,Female,41,Medicare
+P04861,Female,52,Private Insurance
+P04862,Female,87,Private Insurance
+P04863,Male,57,Medicare
+P04864,Male,71,Medicaid
+P04865,Male,61,Medicare
+P04866,Female,79,Medicare
+P04867,Male,85,Medicaid
+P04868,Male,50,Self-Pay
+P04869,Female,73,Medicare
+P04870,Female,53,Medicare
+P04871,Male,71,Medicare
+P04872,Male,36,Medicare
+P04873,Male,60,Medicare
+P04874,Male,29,Private Insurance
+P04875,Male,28,Medicare
+P04876,Female,87,Self-Pay
+P04877,Female,29,Medicare
+P04878,Female,58,Private Insurance
+P04879,Male,42,Private Insurance
+P04880,Female,20,Medicaid
+P04881,Male,20,Medicare
+P04882,Male,45,Medicaid
+P04883,Female,40,Private Insurance
+P04884,Male,65,Private Insurance
+P04885,Male,84,Medicaid
+P04886,Female,59,Medicare
+P04887,Male,57,Private Insurance
+P04888,Female,23,Self-Pay
+P04889,Male,37,Private Insurance
+P04890,Female,28,Private Insurance
+P04891,Male,44,Medicaid
+P04892,Male,38,Private Insurance
+P04893,Female,30,Private Insurance
+P04894,Male,52,Private Insurance
+P04895,Male,64,Medicare
+P04896,Male,45,Medicaid
+P04897,Male,38,Medicaid
+P04898,Male,35,Medicare
+P04899,Male,48,Medicare
+P04900,Female,77,Private Insurance
+P04901,Male,54,Medicaid
+P04902,Male,38,Medicare
+P04903,Male,31,Private Insurance
+P04904,Male,77,Private Insurance
+P04905,Female,40,Medicaid
+P04906,Male,46,Medicare
+P04907,Female,64,Private Insurance
+P04908,Male,47,Private Insurance
+P04909,Female,55,Medicare
+P04910,Female,44,Medicare
+P04911,Female,32,Medicaid
+P04912,Female,76,Private Insurance
+P04913,Female,20,Medicare
+P04914,Male,27,Medicaid
+P04915,Male,34,Medicaid
+P04916,Female,28,Private Insurance
+P04917,Male,65,Medicaid
+P04918,Male,22,Medicaid
+P04919,Female,86,Self-Pay
+P04920,Male,81,Medicare
+P04921,Female,31,Medicare
+P04922,Female,67,Private Insurance
+P04923,Female,43,Medicare
+P04924,Female,89,Private Insurance
+P04925,Male,86,Medicare
+P04926,Male,24,Medicare
+P04927,Male,33,Private Insurance
+P04928,Male,72,Medicaid
+P04929,Female,73,Private Insurance
+P04930,Female,21,Medicare
+P04931,Male,65,Medicare
+P04932,Male,34,Private Insurance
+P04933,Female,53,Medicare
+P04934,Male,87,Medicaid
+P04935,Male,55,Medicare
+P04936,Male,79,Medicare
+P04937,Female,65,Private Insurance
+P04938,Female,27,Private Insurance
+P04939,Female,53,Private Insurance
+P04940,Female,46,Private Insurance
+P04941,Male,21,Medicaid
+P04942,Male,61,Medicaid
+P04943,Female,73,Private Insurance
+P04944,Male,59,Medicare
+P04945,Female,30,Medicare
+P04946,Female,63,Private Insurance
+P04947,Female,50,Medicare
+P04948,Female,38,Medicare
+P04949,Female,74,Medicaid
+P04950,Female,86,Private Insurance
+P04951,Male,87,Medicaid
+P04952,Male,84,Medicare
+P04953,Male,65,Self-Pay
+P04954,Female,50,Private Insurance
+P04955,Male,53,Private Insurance
+P04956,Female,50,Medicare
+P04957,Male,48,Medicare
+P04958,Female,38,Medicare
+P04959,Male,44,Medicare
+P04960,Female,89,Medicare
+P04961,Female,79,Medicare
+P04962,Male,43,Medicaid
+P04963,Male,83,Private Insurance
+P04964,Female,29,Private Insurance
+P04965,Male,39,Medicare
+P04966,Male,34,Medicaid
+P04967,Female,24,Medicare
+P04968,Female,85,Medicaid
+P04969,Female,54,Medicaid
+P04970,Male,55,Medicaid
+P04971,Male,28,Private Insurance
+P04972,Female,18,Private Insurance
+P04973,Female,42,Private Insurance
+P04974,Female,59,Private Insurance
+P04975,Male,69,Private Insurance
+P04976,Male,41,Private Insurance
+P04977,Male,70,Medicaid
+P04978,Male,73,Medicaid
+P04979,Male,80,Private Insurance
+P04980,Male,25,Medicare
+P04981,Female,76,Private Insurance
+P04982,Male,62,Private Insurance
+P04983,Female,44,Private Insurance
+P04984,Female,69,Medicare
+P04985,Female,35,Medicare
+P04986,Male,33,Private Insurance
+P04987,Female,83,Self-Pay
+P04988,Female,22,Medicare
+P04989,Female,20,Private Insurance
+P04990,Female,87,Private Insurance
+P04991,Female,24,Medicare
+P04992,Female,67,Private Insurance
+P04993,Male,31,Medicare
+P04994,Female,55,Medicaid
+P04995,Male,64,Medicaid
+P04996,Female,50,Private Insurance
+P04997,Male,60,Private Insurance
+P04998,Male,46,Medicaid
+P04999,Female,74,Private Insurance
+P05000,Female,22,Private Insurance
